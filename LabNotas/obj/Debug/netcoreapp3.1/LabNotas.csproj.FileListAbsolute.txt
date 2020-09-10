@@ -11,3 +11,16 @@ C:\Users\wilso\source\sample\LabNotas\LabNotas\obj\Debug\netcoreapp3.1\LabNotas.
 C:\Users\wilso\source\sample\LabNotas\LabNotas\obj\Debug\netcoreapp3.1\LabNotas.dll
 C:\Users\wilso\source\sample\LabNotas\LabNotas\obj\Debug\netcoreapp3.1\LabNotas.pdb
 C:\Users\wilso\source\sample\LabNotas\LabNotas\obj\Debug\netcoreapp3.1\LabNotas.csprojAssemblyReference.cache
+C:\Users\wilso\Source\Repos\zarantonello\medium-testes-mutantes\LabNotas\bin\Debug\netcoreapp3.1\LabNotas.exe
+C:\Users\wilso\Source\Repos\zarantonello\medium-testes-mutantes\LabNotas\bin\Debug\netcoreapp3.1\LabNotas.deps.json
+C:\Users\wilso\Source\Repos\zarantonello\medium-testes-mutantes\LabNotas\bin\Debug\netcoreapp3.1\LabNotas.runtimeconfig.json
+C:\Users\wilso\Source\Repos\zarantonello\medium-testes-mutantes\LabNotas\bin\Debug\netcoreapp3.1\LabNotas.runtimeconfig.dev.json
+C:\Users\wilso\Source\Repos\zarantonello\medium-testes-mutantes\LabNotas\bin\Debug\netcoreapp3.1\LabNotas.dll
+C:\Users\wilso\Source\Repos\zarantonello\medium-testes-mutantes\LabNotas\bin\Debug\netcoreapp3.1\LabNotas.pdb
+C:\Users\wilso\Source\Repos\zarantonello\medium-testes-mutantes\LabNotas\obj\Debug\netcoreapp3.1\LabNotas.csprojAssemblyReference.cache
+C:\Users\wilso\Source\Repos\zarantonello\medium-testes-mutantes\LabNotas\obj\Debug\netcoreapp3.1\LabNotas.AssemblyInfoInputs.cache
+C:\Users\wilso\Source\Repos\zarantonello\medium-testes-mutantes\LabNotas\obj\Debug\netcoreapp3.1\LabNotas.AssemblyInfo.cs
+C:\Users\wilso\Source\Repos\zarantonello\medium-testes-mutantes\LabNotas\obj\Debug\netcoreapp3.1\LabNotas.csproj.CoreCompileInputs.cache
+C:\Users\wilso\Source\Repos\zarantonello\medium-testes-mutantes\LabNotas\obj\Debug\netcoreapp3.1\LabNotas.dll
+C:\Users\wilso\Source\Repos\zarantonello\medium-testes-mutantes\LabNotas\obj\Debug\netcoreapp3.1\LabNotas.pdb
+C:\Users\wilso\Source\Repos\zarantonello\medium-testes-mutantes\LabNotas\obj\Debug\netcoreapp3.1\LabNotas.genruntimeconfig.cache

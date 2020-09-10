@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cBHGYpV2iojYp6mlYhl+98S7j7nkRuFWL+TgYliJGzPkPVaRnACUina1D3ME9M661Q319u6cld5Y+FJp3LU/SQ==",
+  "dgSpecHash": "GTHS/98zkWw8cuMykWLW+op3Py/8HQQlivDryJd29SY/KEtncI84tKux7QxPdoFTAGA8lcwasZQVjamsNe4dtA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\wilso\\source\\sample\\LabNotas\\LabNotasTests\\LabNotasTests.csproj",
+  "projectFilePath": "C:\\Users\\wilso\\Source\\Repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\LabNotasTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wilso\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\wilso\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

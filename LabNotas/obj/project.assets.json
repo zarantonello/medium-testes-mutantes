@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wilso\\source\\sample\\LabNotas\\LabNotas\\LabNotas.csproj",
+      "projectUniqueName": "C:\\Users\\wilso\\Source\\Repos\\zarantonello\\medium-testes-mutantes\\LabNotas\\LabNotas.csproj",
       "projectName": "LabNotas",
-      "projectPath": "C:\\Users\\wilso\\source\\sample\\LabNotas\\LabNotas\\LabNotas.csproj",
+      "projectPath": "C:\\Users\\wilso\\Source\\Repos\\zarantonello\\medium-testes-mutantes\\LabNotas\\LabNotas.csproj",
       "packagesPath": "C:\\Users\\wilso\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wilso\\source\\sample\\LabNotas\\LabNotas\\obj\\",
+      "outputPath": "C:\\Users\\wilso\\Source\\Repos\\zarantonello\\medium-testes-mutantes\\LabNotas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

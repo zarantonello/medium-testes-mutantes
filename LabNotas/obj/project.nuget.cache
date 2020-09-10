@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZLplAd3Bt8aHblZoks4sLXt0elIDxoHJ9iZLgEerm3KEtbGaQjOIRonprLYcK/5c69lR2XlrlAgRH+C+jOhPww==",
+  "dgSpecHash": "3yy12GQRlT8DIUuNtZGbUfSqP5uvdLyIHeMxbcFugHhFhLNnHtfCkH/j/Z0wlVY/mLykKgpZfFx3bOsOllfSww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\wilso\\source\\sample\\LabNotas\\LabNotas\\LabNotas.csproj",
+  "projectFilePath": "C:\\Users\\wilso\\Source\\Repos\\zarantonello\\medium-testes-mutantes\\LabNotas\\LabNotas.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
