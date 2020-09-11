@@ -1,0 +1,78 @@
+TpTrace Information: 0 : 8752, 1, 2020/09/10, 19:18:34.875, 770616670345, testhost.dll, DefaultEngineInvoker.Invoke: Testhost process started with args :[--port, 49546],[--endpoint, 127.0.0.1:049546],[--role, client],[--parentprocessid, 21704],[--diag, C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\StrykerOutput\2020-09-10.19-17-58\logs\VsTest-log.host.20-09-10_19-18-34_48566_6.txt],[--tracelevel, 3],[--telemetryoptedin, false]
+TpTrace Information: 0 : 8752, 1, 2020/09/10, 19:18:34.887, 770616760935, testhost.dll, DefaultEngineInvoker.SetParentProcessExitCallback: Monitoring parent process with id: '21704'
+TpTrace Information: 0 : 8752, 1, 2020/09/10, 19:18:34.923, 770617116440, testhost.dll, DefaultEngineInvoker.GetConnectionInfo: Initialize communication on endpoint address: '127.0.0.1:049546'
+TpTrace Information: 0 : 8752, 1, 2020/09/10, 19:18:34.989, 770617780177, testhost.dll, SocketClient.Start: connecting to server endpoint: 127.0.0.1:049546
+TpTrace Information: 0 : 8752, 1, 2020/09/10, 19:18:35.008, 770617969721, testhost.dll, DefaultEngineInvoker.Invoke: Start Request Processing.
+TpTrace Information: 0 : 8752, 4, 2020/09/10, 19:18:35.042, 770618309177, testhost.dll, SocketClient.OnServerConnected: connected to server endpoint: 127.0.0.1:049546
+TpTrace Information: 0 : 8752, 8, 2020/09/10, 19:18:35.050, 770618390816, testhost.dll, DefaultEngineInvoker.StartProcessingAsync: Connected to vstest.console, Starting process requests.
+TpTrace Information: 0 : 8752, 4, 2020/09/10, 19:18:35.709, 770624978202, testhost.dll, TestRequestHandler.ProcessRequests: received message: (ProtocolVersion) -> 3
+TpTrace Information: 0 : 8752, 4, 2020/09/10, 19:18:35.837, 770626262147, testhost.dll, TestRequestHandler.ProcessRequests: received message: (TestExecution.Initialize) -> [
+  "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\bin\\Debug\\netcoreapp3.1\\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll"
+]
+TpTrace Information: 0 : 8752, 4, 2020/09/10, 19:18:35.838, 770626266521, testhost.dll, Execution Session Initialize.
+TpTrace Information: 0 : 8752, 4, 2020/09/10, 19:18:35.875, 770626641286, testhost.dll, TestRequestHandler.ProcessRequests: received message: (TestExecution.StartWithSources) -> {
+  "AdapterSourceMap": {
+    "_none_": [
+      "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\bin\\Debug\\netcoreapp3.1\\LabNotasTests.dll"
+    ]
+  },
+  "RunSettings": "<RunSettings>\r\n  <RunConfiguration>\r\n    <MaxCpuCount>1</MaxCpuCount>\r\n    <TargetFrameworkVersion>.NETCoreApp,Version=v3.1</TargetFrameworkVersion>\r\n    <DesignMode>false</DesignMode>\r\n    <BatchSize>1</BatchSize>\r\n    <TargetPlatform>X64</TargetPlatform>\r\n    <CollectSourceInformation>True</CollectSourceInformation>\r\n  </RunConfiguration>\r\n  <InProcDataCollectionRunSettings>\r\n    <InProcDataCollectors>\r\n      <InProcDataCollector friendlyName=\"StrykerCoverage\" uri=\"https://stryker-mutator.io/\" codebase=\"C:\\Users\\wilso\\.dotnet\\tools\\.store\\dotnet-stryker\\0.19.0\\dotnet-stryker\\0.19.0\\tools\\netcoreapp3.1\\any\\Stryker.DataCollector.dll\" assemblyQualifiedName=\"Stryker.DataCollector.CoverageCollector, Stryker.DataCollector, Version=0.16.1.0, Culture=neutral, PublicKeyToken=null\">\r\n        <Configuration>\r\n          <Parameters>\r\n            <Coverage />\r\n            <MutantControl name=\"Strykerq63glQ2KQWbAvdv.MutantControl\" />\r\n          </Parameters>\r\n        </Configuration>\r\n      </InProcDataCollector>\r\n    </InProcDataCollectors>\r\n  </InProcDataCollectionRunSettings>\r\n  <LoggerRunSettings>\r\n    <Loggers>\r\n      <Logger friendlyName=\"Console\" uri=\"logger://microsoft/TestPlatform/ConsoleLogger/v1\" assemblyQualifiedName=\"Microsoft.VisualStudio.TestPlatform.CommandLine.Internal.ConsoleLogger, vstest.console, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a\" codeBase=\"C:\\Users\\wilso\\AppData\\Local\\Temp\\1qptgffq.q0g\\.vstest\\tools\\net451\\vstest.console.exe\" enabled=\"True\" />\r\n    </Loggers>\r\n  </LoggerRunSettings>\r\n</RunSettings>",
+  "TestExecutionContext": {
+    "FrequencyOfRunStatsChangeEvent": 1,
+    "RunStatsChangeEventTimeout": "00:00:01.5000000",
+    "InIsolation": false,
+    "KeepAlive": false,
+    "AreTestCaseLevelEventsRequired": false,
+    "IsDebug": false,
+    "TestCaseFilter": null,
+    "FilterOptions": null
+  },
+  "Package": null
+}
+TpTrace Information: 0 : 8752, 4, 2020/09/10, 19:18:35.876, 770626646049, testhost.dll, Execution started.
+TpTrace Information: 0 : 8752, 5, 2020/09/10, 19:18:35.886, 770626753888, testhost.dll, AssemblyResolver.ctor: Creating AssemblyResolver with searchDirectories C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1
+TpTrace Information: 0 : 8752, 5, 2020/09/10, 19:18:35.943, 770627317857, testhost.dll, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1
+TpTrace Information: 0 : 8752, 5, 2020/09/10, 19:18:35.960, 770627494367, testhost.dll, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter: Resolving assembly.
+TpTrace Information: 0 : 8752, 5, 2020/09/10, 19:18:35.965, 770627542223, testhost.dll, AssemblyResolver.OnResolve: Resolved assembly: Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter, from path: C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+TpTrace Information: 0 : 8752, 5, 2020/09/10, 19:18:35.971, 770627603957, testhost.dll, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface: Resolving assembly.
+TpTrace Information: 0 : 8752, 5, 2020/09/10, 19:18:35.973, 770627621460, testhost.dll, AssemblyResolver.OnResolve: Resolved assembly: Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface, from path: C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+TpTrace Information: 0 : 8752, 5, 2020/09/10, 19:18:35.974, 770627627557, testhost.dll, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices: Resolving assembly.
+TpTrace Information: 0 : 8752, 5, 2020/09/10, 19:18:35.975, 770627645137, testhost.dll, AssemblyResolver.OnResolve: Resolved assembly: Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices, from path: C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+TpTrace Information: 0 : 8752, 5, 2020/09/10, 19:18:36.037, 770628261929, testhost.dll, TestPluginManager.CreateTestExtension: Attempting to load test extension: Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.MSTestExecutor
+TpTrace Information: 0 : 8752, 5, 2020/09/10, 19:18:36.054, 770628426563, testhost.dll, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1
+TpTrace Information: 0 : 8752, 5, 2020/09/10, 19:18:36.054, 770628428723, testhost.dll, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1
+TpTrace Information: 0 : 8752, 5, 2020/09/10, 19:18:36.057, 770628457753, testhost.dll, TestExecutorService: Loaded the extensions
+TpTrace Information: 0 : 8752, 5, 2020/09/10, 19:18:36.434, 770632229663, testhost.dll, TestDiscoveryManager: Discovering tests from sources C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1\LabNotasTests.dll
+TpTrace Information: 0 : 8752, 5, 2020/09/10, 19:18:36.439, 770632278345, testhost.dll, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1
+TpTrace Information: 0 : 8752, 5, 2020/09/10, 19:18:36.439, 770632280826, testhost.dll, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1
+TpTrace Information: 0 : 8752, 5, 2020/09/10, 19:18:36.645, 770634341765, testhost.dll, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources: Resolving assembly.
+TpTrace Information: 0 : 8752, 5, 2020/09/10, 19:18:36.646, 770634345871, testhost.dll, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources: Failed to load assembly.
+TpTrace Information: 0 : 8752, 5, 2020/09/10, 19:18:36.646, 770634353241, testhost.dll, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources: Resolving assembly.
+TpTrace Information: 0 : 8752, 5, 2020/09/10, 19:18:36.646, 770634354798, testhost.dll, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources: Resolved from cache.
+TpTrace Information: 0 : 8752, 5, 2020/09/10, 19:18:36.694, 770634826793, testhost.dll, Sending test run statistics
+TpTrace Warning: 0 : 8752, 5, 2020/09/10, 19:18:37.204, 770639935758, testhost.dll, InProgressTests is null
+TpTrace Warning: 0 : 8752, 5, 2020/09/10, 19:18:37.226, 770640146234, testhost.dll, InProgressTests is null
+TpTrace Warning: 0 : 8752, 5, 2020/09/10, 19:18:37.232, 770640211673, testhost.dll, TestRunCache: No test found corresponding to testResult 'AprovacaoDisciplina  Aprovado' in inProgress list.
+TpTrace Information: 0 : 8752, 5, 2020/09/10, 19:18:37.232, 770640214306, testhost.dll, Sending test run statistics
+TpTrace Information: 0 : 8752, 5, 2020/09/10, 19:18:37.263, 770640524985, testhost.dll, Sending test run statistics
+TpTrace Warning: 0 : 8752, 5, 2020/09/10, 19:18:37.269, 770640577363, testhost.dll, InProgressTests is null
+TpTrace Warning: 0 : 8752, 5, 2020/09/10, 19:18:37.269, 770640581725, testhost.dll, InProgressTests is null
+TpTrace Warning: 0 : 8752, 5, 2020/09/10, 19:18:37.269, 770640583462, testhost.dll, TestRunCache: No test found corresponding to testResult 'AprovacaoMinimaDisciplina  Aprovado' in inProgress list.
+TpTrace Information: 0 : 8752, 5, 2020/09/10, 19:18:37.269, 770640585432, testhost.dll, Sending test run statistics
+TpTrace Information: 0 : 8752, 5, 2020/09/10, 19:18:37.273, 770640617684, testhost.dll, Sending test run statistics
+TpTrace Warning: 0 : 8752, 5, 2020/09/10, 19:18:37.276, 770640651731, testhost.dll, InProgressTests is null
+TpTrace Warning: 0 : 8752, 5, 2020/09/10, 19:18:37.276, 770640654952, testhost.dll, InProgressTests is null
+TpTrace Warning: 0 : 8752, 5, 2020/09/10, 19:18:37.277, 770640656547, testhost.dll, TestRunCache: No test found corresponding to testResult 'ReprovacaoDisciplina  Aprovado' in inProgress list.
+TpTrace Information: 0 : 8752, 5, 2020/09/10, 19:18:37.277, 770640657680, testhost.dll, Sending test run statistics
+TpTrace Information: 0 : 8752, 5, 2020/09/10, 19:18:37.284, 770640734827, testhost.dll, Deleting deployment directory C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1\TestResults\Deploy_wilso 2020-09-10 19_18_36
+TpTrace Information: 0 : 8752, 5, 2020/09/10, 19:18:37.314, 770641027451, testhost.dll, Deleted deployment directory C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1\TestResults\Deploy_wilso 2020-09-10 19_18_36
+TpTrace Information: 0 : 8752, 5, 2020/09/10, 19:18:37.321, 770641098403, testhost.dll, Sending test run complete
+TpTrace Information: 0 : 8752, 4, 2020/09/10, 19:18:37.361, 770641505200, testhost.dll, TestRequestHandler.ProcessRequests: received message: (TestSession.Terminate) -> null
+TpTrace Information: 0 : 8752, 4, 2020/09/10, 19:18:37.362, 770641507181, testhost.dll, Session End message received from server. Closing the connection.
+TpTrace Information: 0 : 8752, 4, 2020/09/10, 19:18:37.362, 770641515080, testhost.dll, SocketClient.Stop: Stop communication from server endpoint: 127.0.0.1:049546
+TpTrace Information: 0 : 8752, 1, 2020/09/10, 19:18:37.362, 770641515079, testhost.dll, SocketClient.Stop: Stop communication from server endpoint: 127.0.0.1:049546
+TpTrace Information: 0 : 8752, 4, 2020/09/10, 19:18:37.363, 770641516869, testhost.dll, SocketClient: Stop: Cancellation requested. Stopping message loop.
+TpTrace Information: 0 : 8752, 1, 2020/09/10, 19:18:37.363, 770641517832, testhost.dll, SocketClient: Stop: Cancellation requested. Stopping message loop.
+TpTrace Information: 0 : 8752, 4, 2020/09/10, 19:18:37.363, 770641522329, testhost.dll, Closing the connection !
+TpTrace Information: 0 : 8752, 1, 2020/09/10, 19:18:37.363, 770641523654, testhost.dll, Testhost process exiting.
+TpTrace Information: 0 : 8752, 4, 2020/09/10, 19:18:37.364, 770641528563, testhost.dll, SocketClient.PrivateStop: Stop communication from server endpoint: 127.0.0.1:049546, error:

@@ -1,0 +1,1527 @@
+TpTrace Information: 0 : 24284, 1, 2020/09/10, 19:13:47.417, 767742101399, vstest.console.exe, AssemblyResolver.ctor: Creating AssemblyResolver with searchDirectories C:\Users\wilso\AppData\Local\Temp\5y3im2b1.1wq\.vstest\tools\net451\Extensions,C:\Users\wilso\AppData\Local\Temp\5y3im2b1.1wq\.vstest\tools\net451
+TpTrace Information: 0 : 24284, 1, 2020/09/10, 19:13:47.432, 767742216634, vstest.console.exe, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories C:\Users\wilso\AppData\Local\Temp\5y3im2b1.1wq\.vstest\tools\net451\Extensions,C:\Users\wilso\AppData\Local\Temp\5y3im2b1.1wq\.vstest\tools\net451
+TpTrace Information: 0 : 24284, 1, 2020/09/10, 19:13:47.434, 767742240111, vstest.console.exe, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories C:\Users\wilso\AppData\Local\Temp\5y3im2b1.1wq\.vstest\tools\net451\Extensions,C:\Users\wilso\AppData\Local\Temp\5y3im2b1.1wq\.vstest\tools\net451
+TpTrace Information: 0 : 24284, 1, 2020/09/10, 19:13:47.436, 767742257269, vstest.console.exe, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories C:\Users\wilso\AppData\Local\Temp\5y3im2b1.1wq\.vstest\tools\net451\Extensions,C:\Users\wilso\AppData\Local\Temp\5y3im2b1.1wq\.vstest\tools\net451
+TpTrace Information: 0 : 24284, 1, 2020/09/10, 19:13:47.437, 767742263199, vstest.console.exe, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories C:\Users\wilso\AppData\Local\Temp\5y3im2b1.1wq\.vstest\tools\net451\Extensions,C:\Users\wilso\AppData\Local\Temp\5y3im2b1.1wq\.vstest\tools\net451
+TpTrace Information: 0 : 24284, 1, 2020/09/10, 19:13:47.451, 767742407652, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.TestPlatform.Extensions.BlameDataCollector: Resolving assembly.
+TpTrace Information: 0 : 24284, 1, 2020/09/10, 19:13:47.494, 767742840372, vstest.console.exe, AssemblyResolver.OnResolve: Resolved assembly: Microsoft.TestPlatform.Extensions.BlameDataCollector, from path: C:\Users\wilso\AppData\Local\Temp\5y3im2b1.1wq\.vstest\tools\net451\Extensions\Microsoft.TestPlatform.Extensions.BlameDataCollector.dll
+TpTrace Information: 0 : 24284, 1, 2020/09/10, 19:13:47.503, 767742927431, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.TestPlatform.TestHostRuntimeProvider: Resolving assembly.
+TpTrace Information: 0 : 24284, 1, 2020/09/10, 19:13:47.514, 767743037934, vstest.console.exe, AssemblyResolver.OnResolve: Resolved assembly: Microsoft.TestPlatform.TestHostRuntimeProvider, from path: C:\Users\wilso\AppData\Local\Temp\5y3im2b1.1wq\.vstest\tools\net451\Extensions\Microsoft.TestPlatform.TestHostRuntimeProvider.dll
+TpTrace Information: 0 : 24284, 1, 2020/09/10, 19:13:47.523, 767743126901, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger: Resolving assembly.
+TpTrace Information: 0 : 24284, 1, 2020/09/10, 19:13:47.565, 767743549537, vstest.console.exe, AssemblyResolver.OnResolve: Resolved assembly: Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger, from path: C:\Users\wilso\AppData\Local\Temp\5y3im2b1.1wq\.vstest\tools\net451\Extensions\Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.dll
+TpTrace Information: 0 : 24284, 1, 2020/09/10, 19:13:47.576, 767743655926, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger: Resolving assembly.
+TpTrace Information: 0 : 24284, 1, 2020/09/10, 19:13:47.593, 767743830302, vstest.console.exe, AssemblyResolver.OnResolve: Resolved assembly: Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger, from path: C:\Users\wilso\AppData\Local\Temp\5y3im2b1.1wq\.vstest\tools\net451\Extensions\Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.dll
+TpTrace Information: 0 : 24284, 1, 2020/09/10, 19:13:47.784, 767745735397, vstest.console.exe, Trying to connect to server on port : 49452
+TpTrace Information: 0 : 24284, 1, 2020/09/10, 19:13:47.789, 767745782313, vstest.console.exe, Trying to connect to server on socket : 127.0.0.1:49452 
+TpTrace Information: 0 : 24284, 4, 2020/09/10, 19:13:47.990, 767747800763, vstest.console.exe, Connected to the server successfully 
+TpTrace Information: 0 : 24284, 4, 2020/09/10, 19:13:47.991, 767747811094, vstest.console.exe, Using the buffer size of 16384 bytes
+TpTrace Information: 0 : 24284, 1, 2020/09/10, 19:13:48.968, 767757577295, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (ProtocolVersion) -> 3
+TpTrace Information: 0 : 24284, 1, 2020/09/10, 19:13:49.086, 767758754359, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (Extensions.Initialize) -> [
+  "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\bin\\Debug\\netcoreapp3.1",
+  "C:\\Users\\wilso\\AppData\\Local\\Temp\\5y3im2b1.1wq\\.vstest\\tools\\net451\\Extensions"
+]
+TpTrace Information: 0 : 24284, 1, 2020/09/10, 19:13:49.119, 767759085241, vstest.console.exe, TestRequestManager.InitializeExtensions: Initialize extensions started.
+TpTrace Information: 0 : 24284, 1, 2020/09/10, 19:13:49.123, 767759124900, vstest.console.exe, TestRequestManager.InitializeExtensions: Initialize extensions completed.
+TpTrace Information: 0 : 24284, 1, 2020/09/10, 19:13:49.177, 767759666416, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (TestDiscovery.Start) -> {
+  "Sources": [
+    "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\bin\\Debug\\netcoreapp3.1\\LabNotasTests.dll"
+  ],
+  "RunSettings": "<RunSettings>\r\n <RunConfiguration>\r\n\r\n  <MaxCpuCount>1</MaxCpuCount>\r\n  <TargetFrameworkVersion>.NETCoreApp,Version=v3.1</TargetFrameworkVersion>\r\n<DesignMode>false</DesignMode>\r\n<BatchSize>1</BatchSize>\r\n </RunConfiguration>\r\n</RunSettings>",
+  "TestPlatformOptions": null
+}
+TpTrace Information: 0 : 24284, 6, 2020/09/10, 19:13:49.211, 767760007337, vstest.console.exe, TestRequestManager.DiscoverTests: Discovery tests started.
+TpTrace Information: 0 : 24284, 6, 2020/09/10, 19:13:49.552, 767763416318, vstest.console.exe, AssemblyMetadataProvider.GetFrameWork: Determined framework:'.NETCoreApp,Version=v3.1' for source: 'C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1\LabNotasTests.dll'
+TpTrace Information: 0 : 24284, 6, 2020/09/10, 19:13:49.553, 767763421834, vstest.console.exe, Determined framework for all sources: .NETCoreApp,Version=v3.1
+TpTrace Information: 0 : 24284, 6, 2020/09/10, 19:13:49.603, 767763921743, vstest.console.exe, AssemblyMetadataProvider.GetArchitecture: Determined architecture:AnyCPU info for assembly: C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1\LabNotasTests.dll
+TpTrace Information: 0 : 24284, 6, 2020/09/10, 19:13:49.607, 767763968053, vstest.console.exe, Determined platform for all sources: X64
+TpTrace Information: 0 : 24284, 6, 2020/09/10, 19:13:49.619, 767764082628, vstest.console.exe, Compatible sources list : 
+TpTrace Information: 0 : 24284, 6, 2020/09/10, 19:13:49.620, 767764089620, vstest.console.exe, C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1\LabNotasTests.dll
+TpTrace Information: 0 : 24284, 6, 2020/09/10, 19:13:49.635, 767764248639, vstest.console.exe, TestRequestManager.DiscoverTests: Synchronization context taken
+TpTrace Information: 0 : 24284, 6, 2020/09/10, 19:13:49.785, 767765750552, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.TestPlatform.TestHostRuntimeProvider, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: Resolving assembly.
+TpTrace Information: 0 : 24284, 6, 2020/09/10, 19:13:49.790, 767765800160, vstest.console.exe, AssemblyResolver.OnResolve: Resolved assembly: Microsoft.TestPlatform.TestHostRuntimeProvider, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, from path: C:\Users\wilso\AppData\Local\Temp\5y3im2b1.1wq\.vstest\tools\net451\Extensions\Microsoft.TestPlatform.TestHostRuntimeProvider.dll
+TpTrace Information: 0 : 24284, 6, 2020/09/10, 19:13:49.811, 767766006160, vstest.console.exe, TestPluginManager.CreateTestExtension: Attempting to load test extension: Microsoft.VisualStudio.TestPlatform.CrossPlatEngine.Hosting.DefaultTestHostManager
+TpTrace Information: 0 : 24284, 6, 2020/09/10, 19:13:49.814, 767766036897, vstest.console.exe, TestPluginManager.CreateTestExtension: Attempting to load test extension: Microsoft.VisualStudio.TestPlatform.CrossPlatEngine.Hosting.DotnetTestHostManager
+TpTrace Information: 0 : 24284, 6, 2020/09/10, 19:13:49.823, 767766134184, vstest.console.exe, InferRunSettingsHelper.IsTestSettingsEnabled: Unable to navigate to RunSettings/MSTest. Current node: RunSettings
+TpTrace Information: 0 : 24284, 6, 2020/09/10, 19:13:49.907, 767766972990, vstest.console.exe, DiscoveryRequest.DiscoverAsync: Started.
+TpTrace Information: 0 : 24284, 9, 2020/09/10, 19:13:49.928, 767767179465, vstest.console.exe, SocketServer.Start: Listening on endpoint : 127.0.0.1:49456
+TpTrace Information: 0 : 24284, 9, 2020/09/10, 19:13:52.657, 767794464872, vstest.console.exe, DiscoveryRequest.SendDiscoveryMessage: Completed.
+TpTrace Information: 0 : 24284, 10, 2020/09/10, 19:13:52.842, 767796310443, vstest.console.exe, DiscoveryRequest.SendDiscoveryMessage: Completed.
+TpTrace Information: 0 : 24284, 10, 2020/09/10, 19:13:58.315, 767851043028, vstest.console.exe, DiscoveryRequest.SendDiscoveredTests: Completed.
+TpTrace Information: 0 : 24284, 10, 2020/09/10, 19:13:58.316, 767851055091, vstest.console.exe, DiscoveryRequest.SendDiscoveredTests: Completed.
+TpTrace Information: 0 : 24284, 10, 2020/09/10, 19:13:58.317, 767851063790, vstest.console.exe, DiscoveryRequest.SendDiscoveredTests: Completed.
+TpTrace Warning: 0 : 24284, 7, 2020/09/10, 19:13:58.349, 767851380494, vstest.console.exe, TestHostManagerCallbacks.ErrorReceivedCallback Test host standard error line: 
+TpTrace Information: 0 : 24284, 5, 2020/09/10, 19:13:58.358, 767851479014, vstest.console.exe, TestHostManagerCallbacks.ExitCallBack: Testhost processId: 25180 exited with exitcode: 0 error: ''
+TpTrace Warning: 0 : 24284, 10, 2020/09/10, 19:13:58.359, 767851489381, vstest.console.exe, ProxyOperationManager: Timed out waiting for test host to exit. Will terminate process.
+TpTrace Information: 0 : 24284, 5, 2020/09/10, 19:13:58.360, 767851492294, vstest.console.exe, TestRequestSender.OnClientProcessExit: Test host process exited. Standard error: 
+TpTrace Information: 0 : 24284, 5, 2020/09/10, 19:13:58.360, 767851497236, vstest.console.exe, SocketServer.Stop: Stop server endPoint: 127.0.0.1:49456
+TpTrace Information: 0 : 24284, 5, 2020/09/10, 19:13:58.360, 767851498788, vstest.console.exe, SocketServer.Stop: Cancellation requested. Stopping message loop.
+TpTrace Information: 0 : 24284, 10, 2020/09/10, 19:13:58.375, 767851645191, vstest.console.exe, DiscoveryRequest.SendDiscoveredTests: Completed.
+TpTrace Information: 0 : 24284, 6, 2020/09/10, 19:13:58.401, 767851906175, vstest.console.exe, DiscoveryRequest.Dispose: Completed.
+TpTrace Information: 0 : 24284, 6, 2020/09/10, 19:13:58.401, 767851908766, vstest.console.exe, TestRequestManager.DiscoverTests: Discovery tests completed.
+TpTrace Information: 0 : 24284, 10, 2020/09/10, 19:13:58.402, 767851915523, vstest.console.exe, DiscoveryRequest.DiscoveryComplete: Completed.
+TpTrace Information: 0 : 24284, 10, 2020/09/10, 19:13:58.403, 767851920684, vstest.console.exe, SocketServer.Stop: Stop server endPoint: 127.0.0.1:49456
+TpTrace Information: 0 : 24284, 10, 2020/09/10, 19:13:58.403, 767851922672, vstest.console.exe, SocketServer.Stop: Cancellation requested. Stopping message loop.
+TpTrace Information: 0 : 24284, 10, 2020/09/10, 19:13:58.404, 767851930850, vstest.console.exe, SocketServer.PrivateStop: Stop server endPoint: 127.0.0.1:49456 error: 
+TpTrace Information: 0 : 24284, 10, 2020/09/10, 19:13:58.404, 767851939633, vstest.console.exe, SocketServer.Stop: Raise disconnected event endPoint: 127.0.0.1:49456 error: 
+TpTrace Information: 0 : 24284, 1, 2020/09/10, 19:13:58.422, 767852119802, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (TestSession.Terminate) -> null
+TpTrace Information: 0 : 24284, 1, 2020/09/10, 19:13:58.423, 767852122417, vstest.console.exe, DesignModeClient: Session End message received from server. Closing the connection.
+TpTrace Information: 0 : 4456, 1, 2020/09/10, 19:13:58.807, 767855977166, vstest.console.exe, AssemblyResolver.ctor: Creating AssemblyResolver with searchDirectories C:\Users\wilso\AppData\Local\Temp\5y3im2b1.1wq\.vstest\tools\net451\Extensions,C:\Users\wilso\AppData\Local\Temp\5y3im2b1.1wq\.vstest\tools\net451
+TpTrace Information: 0 : 4456, 1, 2020/09/10, 19:13:58.814, 767856034064, vstest.console.exe, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories C:\Users\wilso\AppData\Local\Temp\5y3im2b1.1wq\.vstest\tools\net451\Extensions,C:\Users\wilso\AppData\Local\Temp\5y3im2b1.1wq\.vstest\tools\net451
+TpTrace Information: 0 : 4456, 1, 2020/09/10, 19:13:58.814, 767856036949, vstest.console.exe, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories C:\Users\wilso\AppData\Local\Temp\5y3im2b1.1wq\.vstest\tools\net451\Extensions,C:\Users\wilso\AppData\Local\Temp\5y3im2b1.1wq\.vstest\tools\net451
+TpTrace Information: 0 : 4456, 1, 2020/09/10, 19:13:58.814, 767856038699, vstest.console.exe, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories C:\Users\wilso\AppData\Local\Temp\5y3im2b1.1wq\.vstest\tools\net451\Extensions,C:\Users\wilso\AppData\Local\Temp\5y3im2b1.1wq\.vstest\tools\net451
+TpTrace Information: 0 : 4456, 1, 2020/09/10, 19:13:58.815, 767856040455, vstest.console.exe, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories C:\Users\wilso\AppData\Local\Temp\5y3im2b1.1wq\.vstest\tools\net451\Extensions,C:\Users\wilso\AppData\Local\Temp\5y3im2b1.1wq\.vstest\tools\net451
+TpTrace Information: 0 : 4456, 1, 2020/09/10, 19:13:58.821, 767856109733, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.TestPlatform.Extensions.BlameDataCollector: Resolving assembly.
+TpTrace Information: 0 : 4456, 1, 2020/09/10, 19:13:58.840, 767856292194, vstest.console.exe, AssemblyResolver.OnResolve: Resolved assembly: Microsoft.TestPlatform.Extensions.BlameDataCollector, from path: C:\Users\wilso\AppData\Local\Temp\5y3im2b1.1wq\.vstest\tools\net451\Extensions\Microsoft.TestPlatform.Extensions.BlameDataCollector.dll
+TpTrace Information: 0 : 4456, 1, 2020/09/10, 19:13:58.844, 767856337943, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.TestPlatform.TestHostRuntimeProvider: Resolving assembly.
+TpTrace Information: 0 : 4456, 1, 2020/09/10, 19:13:58.848, 767856370959, vstest.console.exe, AssemblyResolver.OnResolve: Resolved assembly: Microsoft.TestPlatform.TestHostRuntimeProvider, from path: C:\Users\wilso\AppData\Local\Temp\5y3im2b1.1wq\.vstest\tools\net451\Extensions\Microsoft.TestPlatform.TestHostRuntimeProvider.dll
+TpTrace Information: 0 : 4456, 1, 2020/09/10, 19:13:58.851, 767856403124, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger: Resolving assembly.
+TpTrace Information: 0 : 4456, 1, 2020/09/10, 19:13:58.854, 767856435285, vstest.console.exe, AssemblyResolver.OnResolve: Resolved assembly: Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger, from path: C:\Users\wilso\AppData\Local\Temp\5y3im2b1.1wq\.vstest\tools\net451\Extensions\Microsoft.VisualStudio.TestPlatform.Extensions.Html.TestLogger.dll
+TpTrace Information: 0 : 4456, 1, 2020/09/10, 19:13:58.855, 767856447374, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger: Resolving assembly.
+TpTrace Information: 0 : 4456, 1, 2020/09/10, 19:13:58.859, 767856485283, vstest.console.exe, AssemblyResolver.OnResolve: Resolved assembly: Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger, from path: C:\Users\wilso\AppData\Local\Temp\5y3im2b1.1wq\.vstest\tools\net451\Extensions\Microsoft.VisualStudio.TestPlatform.Extensions.Trx.TestLogger.dll
+TpTrace Information: 0 : 4456, 1, 2020/09/10, 19:13:58.923, 767857121070, vstest.console.exe, Trying to connect to server on port : 49459
+TpTrace Information: 0 : 4456, 1, 2020/09/10, 19:13:58.926, 767857158459, vstest.console.exe, Trying to connect to server on socket : 127.0.0.1:49459 
+TpTrace Information: 0 : 4456, 4, 2020/09/10, 19:13:58.963, 767857524476, vstest.console.exe, Connected to the server successfully 
+TpTrace Information: 0 : 4456, 4, 2020/09/10, 19:13:58.963, 767857529181, vstest.console.exe, Using the buffer size of 16384 bytes
+TpTrace Information: 0 : 4456, 1, 2020/09/10, 19:13:59.270, 767860590847, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (ProtocolVersion) -> 3
+TpTrace Information: 0 : 4456, 1, 2020/09/10, 19:13:59.305, 767860940330, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (Extensions.Initialize) -> [
+  "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\bin\\Debug\\netcoreapp3.1",
+  "C:\\Users\\wilso\\AppData\\Local\\Temp\\5y3im2b1.1wq\\.vstest\\tools\\net451\\Extensions"
+]
+TpTrace Information: 0 : 4456, 1, 2020/09/10, 19:13:59.335, 767861240948, vstest.console.exe, TestRequestManager.InitializeExtensions: Initialize extensions started.
+TpTrace Information: 0 : 4456, 1, 2020/09/10, 19:13:59.339, 767861281673, vstest.console.exe, TestRequestManager.InitializeExtensions: Initialize extensions completed.
+TpTrace Information: 0 : 4456, 1, 2020/09/10, 19:14:13.955, 768007442724, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (TestExecution.GetTestRunnerProcessStartInfoForRunSelected) -> {
+  "Sources": null,
+  "TestCases": [
+    {
+      "Properties": [
+        {
+          "Key": {
+            "Id": "TestCase.FullyQualifiedName",
+            "Label": "FullyQualifiedName",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.String"
+          },
+          "Value": "LabNotasTests.NotasFrequencias.AprovacaoDisciplina"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.ExecutorUri",
+            "Label": "Executor Uri",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.Uri"
+          },
+          "Value": "executor://MSTestAdapter/v2"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.Source",
+            "Label": "Source",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\bin\\Debug\\netcoreapp3.1\\LabNotasTests.dll"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.CodeFilePath",
+            "Label": "File Path",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\NotasFrequencias.cs"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.DisplayName",
+            "Label": "Name",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": "AprovacaoDisciplina"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.Id",
+            "Label": "Id",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.Guid"
+          },
+          "Value": "0f9e67e7-2d46-03f3-c520-c5a64d868358"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.LineNumber",
+            "Label": "Line Number",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.Int32"
+          },
+          "Value": 13
+        },
+        {
+          "Key": {
+            "Id": "MSTestDiscoverer.TestClassName",
+            "Label": "ClassName",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.String"
+          },
+          "Value": "LabNotasTests.NotasFrequencias"
+        },
+        {
+          "Key": {
+            "Id": "TestObject.Traits",
+            "Label": "Traits",
+            "Category": "",
+            "Description": "",
+            "Attributes": 5,
+            "ValueType": "System.Collections.Generic.KeyValuePair`2[[System.String],[System.String]][]"
+          },
+          "Value": []
+        }
+      ]
+    },
+    {
+      "Properties": [
+        {
+          "Key": {
+            "Id": "TestCase.FullyQualifiedName",
+            "Label": "FullyQualifiedName",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.String"
+          },
+          "Value": "LabNotasTests.NotasFrequencias.AprovacaoMinimaDisciplina"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.ExecutorUri",
+            "Label": "Executor Uri",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.Uri"
+          },
+          "Value": "executor://MSTestAdapter/v2"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.Source",
+            "Label": "Source",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\bin\\Debug\\netcoreapp3.1\\LabNotasTests.dll"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.CodeFilePath",
+            "Label": "File Path",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\NotasFrequencias.cs"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.DisplayName",
+            "Label": "Name",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": "AprovacaoMinimaDisciplina"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.Id",
+            "Label": "Id",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.Guid"
+          },
+          "Value": "a41287a6-2b57-5869-0a84-8f6ed7f64af8"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.LineNumber",
+            "Label": "Line Number",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.Int32"
+          },
+          "Value": 20
+        },
+        {
+          "Key": {
+            "Id": "MSTestDiscoverer.TestClassName",
+            "Label": "ClassName",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.String"
+          },
+          "Value": "LabNotasTests.NotasFrequencias"
+        },
+        {
+          "Key": {
+            "Id": "TestObject.Traits",
+            "Label": "Traits",
+            "Category": "",
+            "Description": "",
+            "Attributes": 5,
+            "ValueType": "System.Collections.Generic.KeyValuePair`2[[System.String],[System.String]][]"
+          },
+          "Value": []
+        }
+      ]
+    },
+    {
+      "Properties": [
+        {
+          "Key": {
+            "Id": "TestCase.FullyQualifiedName",
+            "Label": "FullyQualifiedName",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.String"
+          },
+          "Value": "LabNotasTests.NotasFrequencias.ReprovacaoDisciplina"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.ExecutorUri",
+            "Label": "Executor Uri",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.Uri"
+          },
+          "Value": "executor://MSTestAdapter/v2"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.Source",
+            "Label": "Source",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\bin\\Debug\\netcoreapp3.1\\LabNotasTests.dll"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.CodeFilePath",
+            "Label": "File Path",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\NotasFrequencias.cs"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.DisplayName",
+            "Label": "Name",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": "ReprovacaoDisciplina"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.Id",
+            "Label": "Id",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.Guid"
+          },
+          "Value": "91cb4b34-9bc9-ccc5-cc4d-add040dae01e"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.LineNumber",
+            "Label": "Line Number",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.Int32"
+          },
+          "Value": 27
+        },
+        {
+          "Key": {
+            "Id": "MSTestDiscoverer.TestClassName",
+            "Label": "ClassName",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.String"
+          },
+          "Value": "LabNotasTests.NotasFrequencias"
+        },
+        {
+          "Key": {
+            "Id": "TestObject.Traits",
+            "Label": "Traits",
+            "Category": "",
+            "Description": "",
+            "Attributes": 5,
+            "ValueType": "System.Collections.Generic.KeyValuePair`2[[System.String],[System.String]][]"
+          },
+          "Value": []
+        }
+      ]
+    }
+  ],
+  "RunSettings": "<RunSettings>\r\n <RunConfiguration>\r\n\r\n  <MaxCpuCount>1</MaxCpuCount>\r\n  <TargetFrameworkVersion>.NETCoreApp,Version=v3.1</TargetFrameworkVersion><TestSessionTimeout>14057</TestSessionTimeout>\r\n\r\n<DesignMode>false</DesignMode>\r\n<BatchSize>1</BatchSize>\r\n </RunConfiguration><InProcDataCollectionRunSettings><InProcDataCollectors><InProcDataCollector friendlyName=\"StrykerCoverage\" uri=\"https://stryker-mutator.io/\" codebase=\"C:\\Users\\wilso\\.dotnet\\tools\\.store\\dotnet-stryker\\0.19.0\\dotnet-stryker\\0.19.0\\tools\\netcoreapp3.1\\any\\Stryker.DataCollector.dll\" assemblyQualifiedName=\"Stryker.DataCollector.CoverageCollector, Stryker.DataCollector, Version=0.16.1.0, Culture=neutral, PublicKeyToken=null\">\r\n<Configuration><Parameters><Mutant id='3' tests='0f9e67e7-2d46-03f3-c520-c5a64d868358,a41287a6-2b57-5869-0a84-8f6ed7f64af8,91cb4b34-9bc9-ccc5-cc4d-add040dae01e'/><MutantControl  name='StrykerYFEvApuWyFVH0Wg.MutantControl'/></Parameters></Configuration></InProcDataCollector></InProcDataCollectors></InProcDataCollectionRunSettings>\r\n</RunSettings>",
+  "KeepAlive": false,
+  "DebuggingEnabled": false,
+  "TestPlatformOptions": null
+}
+TpTrace Information: 0 : 4456, 5, 2020/09/10, 19:14:14.135, 768009245433, vstest.console.exe, TestRequestManager.RunTests: run tests started.
+TpTrace Information: 0 : 4456, 5, 2020/09/10, 19:14:14.341, 768011305276, vstest.console.exe, AssemblyMetadataProvider.GetFrameWork: Determined framework:'.NETCoreApp,Version=v3.1' for source: 'C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1\LabNotasTests.dll'
+TpTrace Information: 0 : 4456, 5, 2020/09/10, 19:14:14.341, 768011309795, vstest.console.exe, Determined framework for all sources: .NETCoreApp,Version=v3.1
+TpTrace Information: 0 : 4456, 5, 2020/09/10, 19:14:14.383, 768011727912, vstest.console.exe, AssemblyMetadataProvider.GetArchitecture: Determined architecture:AnyCPU info for assembly: C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1\LabNotasTests.dll
+TpTrace Information: 0 : 4456, 5, 2020/09/10, 19:14:14.386, 768011756466, vstest.console.exe, Determined platform for all sources: X64
+TpTrace Information: 0 : 4456, 5, 2020/09/10, 19:14:14.396, 768011856244, vstest.console.exe, Compatible sources list : 
+TpTrace Information: 0 : 4456, 5, 2020/09/10, 19:14:14.396, 768011858595, vstest.console.exe, C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1\LabNotasTests.dll
+TpTrace Information: 0 : 4456, 5, 2020/09/10, 19:14:14.407, 768011970664, vstest.console.exe, InferRunSettingsHelper.IsTestSettingsEnabled: Unable to navigate to RunSettings/MSTest. Current node: RunSettings
+TpTrace Information: 0 : 4456, 5, 2020/09/10, 19:14:14.493, 768012821895, vstest.console.exe, AssemblyResolver.OnResolve: Microsoft.TestPlatform.TestHostRuntimeProvider, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: Resolving assembly.
+TpTrace Information: 0 : 4456, 5, 2020/09/10, 19:14:14.494, 768012839107, vstest.console.exe, AssemblyResolver.OnResolve: Resolved assembly: Microsoft.TestPlatform.TestHostRuntimeProvider, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, from path: C:\Users\wilso\AppData\Local\Temp\5y3im2b1.1wq\.vstest\tools\net451\Extensions\Microsoft.TestPlatform.TestHostRuntimeProvider.dll
+TpTrace Information: 0 : 4456, 5, 2020/09/10, 19:14:14.496, 768012855938, vstest.console.exe, TestPluginManager.CreateTestExtension: Attempting to load test extension: Microsoft.VisualStudio.TestPlatform.CrossPlatEngine.Hosting.DefaultTestHostManager
+TpTrace Information: 0 : 4456, 5, 2020/09/10, 19:14:14.498, 768012871996, vstest.console.exe, TestPluginManager.CreateTestExtension: Attempting to load test extension: Microsoft.VisualStudio.TestPlatform.CrossPlatEngine.Hosting.DotnetTestHostManager
+TpTrace Information: 0 : 4456, 5, 2020/09/10, 19:14:14.514, 768013038282, vstest.console.exe, InferRunSettingsHelper.IsTestSettingsEnabled: Unable to navigate to RunSettings/MSTest. Current node: RunSettings
+TpTrace Information: 0 : 4456, 5, 2020/09/10, 19:14:14.556, 768013461266, vstest.console.exe, TestRunRequest.ExecuteAsync: Starting run with settings:TestRunCriteria:
+   KeepAlive=False,FrequencyOfRunStatsChangeEvent=1,RunStatsChangeEventTimeout=00:00:01.5000000,TestCaseFilter=,TestExecutorLauncher=Microsoft.VisualStudio.TestPlatform.Client.DesignMode.DesignModeTestHostLauncher
+   Settingsxml=<RunSettings>
+  <RunConfiguration>
+    <MaxCpuCount>1</MaxCpuCount>
+    <TargetFrameworkVersion>.NETCoreApp,Version=v3.1</TargetFrameworkVersion>
+    <TestSessionTimeout>14057</TestSessionTimeout>
+    <DesignMode>false</DesignMode>
+    <BatchSize>1</BatchSize>
+    <TargetPlatform>X64</TargetPlatform>
+    <CollectSourceInformation>True</CollectSourceInformation>
+  </RunConfiguration>
+  <InProcDataCollectionRunSettings>
+    <InProcDataCollectors>
+      <InProcDataCollector friendlyName="StrykerCoverage" uri="https://stryker-mutator.io/" codebase="C:\Users\wilso\.dotnet\tools\.store\dotnet-stryker\0.19.0\dotnet-stryker\0.19.0\tools\netcoreapp3.1\any\Stryker.DataCollector.dll" assemblyQualifiedName="Stryker.DataCollector.CoverageCollector, Stryker.DataCollector, Version=0.16.1.0, Culture=neutral, PublicKeyToken=null">
+        <Configuration>
+          <Parameters>
+            <Mutant id="3" tests="0f9e67e7-2d46-03f3-c520-c5a64d868358,a41287a6-2b57-5869-0a84-8f6ed7f64af8,91cb4b34-9bc9-ccc5-cc4d-add040dae01e" />
+            <MutantControl name="StrykerYFEvApuWyFVH0Wg.MutantControl" />
+          </Parameters>
+        </Configuration>
+      </InProcDataCollector>
+    </InProcDataCollectors>
+  </InProcDataCollectionRunSettings>
+  <LoggerRunSettings>
+    <Loggers>
+      <Logger friendlyName="Console" uri="logger://microsoft/TestPlatform/ConsoleLogger/v1" assemblyQualifiedName="Microsoft.VisualStudio.TestPlatform.CommandLine.Internal.ConsoleLogger, vstest.console, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" codeBase="C:\Users\wilso\AppData\Local\Temp\5y3im2b1.1wq\.vstest\tools\net451\vstest.console.exe" enabled="True" />
+    </Loggers>
+  </LoggerRunSettings>
+</RunSettings>
+
+TpTrace Information: 0 : 4456, 5, 2020/09/10, 19:14:14.574, 768013634587, vstest.console.exe, ProxyParallelExecutionManager: Triggering test run for next source: C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1\LabNotasTests.dll
+TpTrace Information: 0 : 4456, 5, 2020/09/10, 19:14:14.575, 768013644626, vstest.console.exe, TestRunRequest.ExecuteAsync: Started.
+TpTrace Information: 0 : 4456, 8, 2020/09/10, 19:14:14.591, 768013806765, vstest.console.exe, SocketServer.Start: Listening on endpoint : 127.0.0.1:49469
+TpTrace Information: 0 : 4456, 1, 2020/09/10, 19:14:14.834, 768016238825, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (TestExecution.CustomTestHostLaunchCallback) -> {
+  "HostProcessId": 5748,
+  "ErrorMessage": null
+}
+TpTrace Information: 0 : 4456, 8, 2020/09/10, 19:14:17.025, 768038137601, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:17.102, 768038917156, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:18.117, 768049070888, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:18.323, 768051129698, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:18.330, 768051201158, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:18.424, 768052141238, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:18.425, 768052151572, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:18.428, 768052179396, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 4456, 11, 2020/09/10, 19:14:18.552, 768053417302, vstest.console.exe, TestHostManagerCallbacks.ExitCallBack: Testhost processId: 5748 exited with exitcode: 0 error: ''
+TpTrace Information: 0 : 4456, 11, 2020/09/10, 19:14:18.553, 768053426764, vstest.console.exe, TestRequestSender.OnClientProcessExit: Test host process exited. Standard error: 
+TpTrace Warning: 0 : 4456, 6, 2020/09/10, 19:14:18.553, 768053426711, vstest.console.exe, ProxyOperationManager: Timed out waiting for test host to exit. Will terminate process.
+TpTrace Information: 0 : 4456, 11, 2020/09/10, 19:14:18.553, 768053431349, vstest.console.exe, SocketServer.Stop: Stop server endPoint: 127.0.0.1:49469
+TpTrace Information: 0 : 4456, 11, 2020/09/10, 19:14:18.553, 768053432706, vstest.console.exe, SocketServer.Stop: Cancellation requested. Stopping message loop.
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:18.588, 768053782034, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:18.641, 768054304553, vstest.console.exe, TestRunRequest:TestRunComplete: Completed.
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:18.641, 768054310085, vstest.console.exe, SocketServer.Stop: Stop server endPoint: 127.0.0.1:49469
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:18.641, 768054311833, vstest.console.exe, SocketServer.Stop: Cancellation requested. Stopping message loop.
+TpTrace Information: 0 : 4456, 5, 2020/09/10, 19:14:18.642, 768054319959, vstest.console.exe, TestRunRequest.Dispose: Completed.
+TpTrace Information: 0 : 4456, 5, 2020/09/10, 19:14:18.642, 768054321496, vstest.console.exe, TestRequestManager.RunTests: run tests completed.
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:18.642, 768054320143, vstest.console.exe, SocketServer.PrivateStop: Stop server endPoint: 127.0.0.1:49469 error: 
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:18.643, 768054330757, vstest.console.exe, SocketServer.Stop: Raise disconnected event endPoint: 127.0.0.1:49469 error: 
+TpTrace Information: 0 : 4456, 1, 2020/09/10, 19:14:20.517, 768073071276, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (TestExecution.Cancel) -> null
+TpTrace Information: 0 : 4456, 1, 2020/09/10, 19:14:20.518, 768073076604, vstest.console.exe, TestRequestManager.CancelTestRun: Sending cancel request.
+TpTrace Information: 0 : 4456, 1, 2020/09/10, 19:14:20.572, 768073618397, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (TestExecution.GetTestRunnerProcessStartInfoForRunSelected) -> {
+  "Sources": null,
+  "TestCases": [
+    {
+      "Properties": [
+        {
+          "Key": {
+            "Id": "TestCase.FullyQualifiedName",
+            "Label": "FullyQualifiedName",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.String"
+          },
+          "Value": "LabNotasTests.NotasFrequencias.AprovacaoDisciplina"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.ExecutorUri",
+            "Label": "Executor Uri",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.Uri"
+          },
+          "Value": "executor://MSTestAdapter/v2"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.Source",
+            "Label": "Source",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\bin\\Debug\\netcoreapp3.1\\LabNotasTests.dll"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.CodeFilePath",
+            "Label": "File Path",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\NotasFrequencias.cs"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.DisplayName",
+            "Label": "Name",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": "AprovacaoDisciplina"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.Id",
+            "Label": "Id",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.Guid"
+          },
+          "Value": "0f9e67e7-2d46-03f3-c520-c5a64d868358"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.LineNumber",
+            "Label": "Line Number",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.Int32"
+          },
+          "Value": 13
+        },
+        {
+          "Key": {
+            "Id": "MSTestDiscoverer.TestClassName",
+            "Label": "ClassName",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.String"
+          },
+          "Value": "LabNotasTests.NotasFrequencias"
+        },
+        {
+          "Key": {
+            "Id": "TestObject.Traits",
+            "Label": "Traits",
+            "Category": "",
+            "Description": "",
+            "Attributes": 5,
+            "ValueType": "System.Collections.Generic.KeyValuePair`2[[System.String],[System.String]][]"
+          },
+          "Value": []
+        }
+      ]
+    },
+    {
+      "Properties": [
+        {
+          "Key": {
+            "Id": "TestCase.FullyQualifiedName",
+            "Label": "FullyQualifiedName",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.String"
+          },
+          "Value": "LabNotasTests.NotasFrequencias.AprovacaoMinimaDisciplina"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.ExecutorUri",
+            "Label": "Executor Uri",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.Uri"
+          },
+          "Value": "executor://MSTestAdapter/v2"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.Source",
+            "Label": "Source",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\bin\\Debug\\netcoreapp3.1\\LabNotasTests.dll"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.CodeFilePath",
+            "Label": "File Path",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\NotasFrequencias.cs"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.DisplayName",
+            "Label": "Name",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": "AprovacaoMinimaDisciplina"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.Id",
+            "Label": "Id",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.Guid"
+          },
+          "Value": "a41287a6-2b57-5869-0a84-8f6ed7f64af8"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.LineNumber",
+            "Label": "Line Number",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.Int32"
+          },
+          "Value": 20
+        },
+        {
+          "Key": {
+            "Id": "MSTestDiscoverer.TestClassName",
+            "Label": "ClassName",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.String"
+          },
+          "Value": "LabNotasTests.NotasFrequencias"
+        },
+        {
+          "Key": {
+            "Id": "TestObject.Traits",
+            "Label": "Traits",
+            "Category": "",
+            "Description": "",
+            "Attributes": 5,
+            "ValueType": "System.Collections.Generic.KeyValuePair`2[[System.String],[System.String]][]"
+          },
+          "Value": []
+        }
+      ]
+    }
+  ],
+  "RunSettings": "<RunSettings>\r\n <RunConfiguration>\r\n\r\n  <MaxCpuCount>1</MaxCpuCount>\r\n  <TargetFrameworkVersion>.NETCoreApp,Version=v3.1</TargetFrameworkVersion><TestSessionTimeout>14057</TestSessionTimeout>\r\n\r\n<DesignMode>false</DesignMode>\r\n<BatchSize>1</BatchSize>\r\n </RunConfiguration><InProcDataCollectionRunSettings><InProcDataCollectors><InProcDataCollector friendlyName=\"StrykerCoverage\" uri=\"https://stryker-mutator.io/\" codebase=\"C:\\Users\\wilso\\.dotnet\\tools\\.store\\dotnet-stryker\\0.19.0\\dotnet-stryker\\0.19.0\\tools\\netcoreapp3.1\\any\\Stryker.DataCollector.dll\" assemblyQualifiedName=\"Stryker.DataCollector.CoverageCollector, Stryker.DataCollector, Version=0.16.1.0, Culture=neutral, PublicKeyToken=null\">\r\n<Configuration><Parameters><Mutant id='4' tests='0f9e67e7-2d46-03f3-c520-c5a64d868358,a41287a6-2b57-5869-0a84-8f6ed7f64af8'/><MutantControl  name='StrykerYFEvApuWyFVH0Wg.MutantControl'/></Parameters></Configuration></InProcDataCollector></InProcDataCollectors></InProcDataCollectionRunSettings>\r\n</RunSettings>",
+  "KeepAlive": false,
+  "DebuggingEnabled": false,
+  "TestPlatformOptions": null
+}
+TpTrace Information: 0 : 4456, 8, 2020/09/10, 19:14:20.573, 768073630403, vstest.console.exe, TestRequestManager.RunTests: run tests started.
+TpTrace Information: 0 : 4456, 8, 2020/09/10, 19:14:20.574, 768073639051, vstest.console.exe, AssemblyMetadataProvider.GetFrameWork: Determined framework:'.NETCoreApp,Version=v3.1' for source: 'C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1\LabNotasTests.dll'
+TpTrace Information: 0 : 4456, 8, 2020/09/10, 19:14:20.574, 768073641402, vstest.console.exe, Determined framework for all sources: .NETCoreApp,Version=v3.1
+TpTrace Information: 0 : 4456, 8, 2020/09/10, 19:14:20.598, 768073879493, vstest.console.exe, AssemblyMetadataProvider.GetArchitecture: Determined architecture:AnyCPU info for assembly: C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1\LabNotasTests.dll
+TpTrace Information: 0 : 4456, 8, 2020/09/10, 19:14:20.598, 768073881868, vstest.console.exe, Determined platform for all sources: X64
+TpTrace Information: 0 : 4456, 8, 2020/09/10, 19:14:20.599, 768073884459, vstest.console.exe, Compatible sources list : 
+TpTrace Information: 0 : 4456, 8, 2020/09/10, 19:14:20.599, 768073885961, vstest.console.exe, C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1\LabNotasTests.dll
+TpTrace Information: 0 : 4456, 8, 2020/09/10, 19:14:20.599, 768073889850, vstest.console.exe, InferRunSettingsHelper.IsTestSettingsEnabled: Unable to navigate to RunSettings/MSTest. Current node: RunSettings
+TpTrace Information: 0 : 4456, 8, 2020/09/10, 19:14:20.603, 768073931402, vstest.console.exe, InferRunSettingsHelper.IsTestSettingsEnabled: Unable to navigate to RunSettings/MSTest. Current node: RunSettings
+TpTrace Information: 0 : 4456, 8, 2020/09/10, 19:14:20.604, 768073940123, vstest.console.exe, TestRunRequest.ExecuteAsync: Starting run with settings:TestRunCriteria:
+   KeepAlive=False,FrequencyOfRunStatsChangeEvent=1,RunStatsChangeEventTimeout=00:00:01.5000000,TestCaseFilter=,TestExecutorLauncher=Microsoft.VisualStudio.TestPlatform.Client.DesignMode.DesignModeTestHostLauncher
+   Settingsxml=<RunSettings>
+  <RunConfiguration>
+    <MaxCpuCount>1</MaxCpuCount>
+    <TargetFrameworkVersion>.NETCoreApp,Version=v3.1</TargetFrameworkVersion>
+    <TestSessionTimeout>14057</TestSessionTimeout>
+    <DesignMode>false</DesignMode>
+    <BatchSize>1</BatchSize>
+    <TargetPlatform>X64</TargetPlatform>
+    <CollectSourceInformation>True</CollectSourceInformation>
+  </RunConfiguration>
+  <InProcDataCollectionRunSettings>
+    <InProcDataCollectors>
+      <InProcDataCollector friendlyName="StrykerCoverage" uri="https://stryker-mutator.io/" codebase="C:\Users\wilso\.dotnet\tools\.store\dotnet-stryker\0.19.0\dotnet-stryker\0.19.0\tools\netcoreapp3.1\any\Stryker.DataCollector.dll" assemblyQualifiedName="Stryker.DataCollector.CoverageCollector, Stryker.DataCollector, Version=0.16.1.0, Culture=neutral, PublicKeyToken=null">
+        <Configuration>
+          <Parameters>
+            <Mutant id="4" tests="0f9e67e7-2d46-03f3-c520-c5a64d868358,a41287a6-2b57-5869-0a84-8f6ed7f64af8" />
+            <MutantControl name="StrykerYFEvApuWyFVH0Wg.MutantControl" />
+          </Parameters>
+        </Configuration>
+      </InProcDataCollector>
+    </InProcDataCollectors>
+  </InProcDataCollectionRunSettings>
+  <LoggerRunSettings>
+    <Loggers>
+      <Logger friendlyName="Console" uri="logger://microsoft/TestPlatform/ConsoleLogger/v1" assemblyQualifiedName="Microsoft.VisualStudio.TestPlatform.CommandLine.Internal.ConsoleLogger, vstest.console, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" codeBase="C:\Users\wilso\AppData\Local\Temp\5y3im2b1.1wq\.vstest\tools\net451\vstest.console.exe" enabled="True" />
+    </Loggers>
+  </LoggerRunSettings>
+</RunSettings>
+
+TpTrace Information: 0 : 4456, 8, 2020/09/10, 19:14:20.605, 768073944407, vstest.console.exe, ProxyParallelExecutionManager: Triggering test run for next source: C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1\LabNotasTests.dll
+TpTrace Information: 0 : 4456, 8, 2020/09/10, 19:14:20.605, 768073946488, vstest.console.exe, TestRunRequest.ExecuteAsync: Started.
+TpTrace Information: 0 : 4456, 5, 2020/09/10, 19:14:20.605, 768073952198, vstest.console.exe, SocketServer.Start: Listening on endpoint : 127.0.0.1:49473
+TpTrace Information: 0 : 4456, 1, 2020/09/10, 19:14:23.185, 768099741185, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (TestExecution.CustomTestHostLaunchCallback) -> {
+  "HostProcessId": 15780,
+  "ErrorMessage": null
+}
+TpTrace Information: 0 : 4456, 5, 2020/09/10, 19:14:25.008, 768117974914, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:25.078, 768118668241, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:26.670, 768134597067, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:27.194, 768139834010, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:27.206, 768139958944, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:27.221, 768140101988, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 4456, 11, 2020/09/10, 19:14:27.457, 768142465583, vstest.console.exe, TestHostManagerCallbacks.ExitCallBack: Testhost processId: 15780 exited with exitcode: 0 error: ''
+TpTrace Information: 0 : 4456, 11, 2020/09/10, 19:14:27.458, 768142470261, vstest.console.exe, TestRequestSender.OnClientProcessExit: Test host process exited. Standard error: 
+TpTrace Information: 0 : 4456, 11, 2020/09/10, 19:14:27.458, 768142472306, vstest.console.exe, SocketServer.Stop: Stop server endPoint: 127.0.0.1:49473
+TpTrace Information: 0 : 4456, 11, 2020/09/10, 19:14:27.458, 768142473824, vstest.console.exe, SocketServer.Stop: Cancellation requested. Stopping message loop.
+TpTrace Warning: 0 : 4456, 6, 2020/09/10, 19:14:27.460, 768142497289, vstest.console.exe, ProxyOperationManager: Timed out waiting for test host to exit. Will terminate process.
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:27.461, 768142506704, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:27.533, 768143223921, vstest.console.exe, TestRunRequest:TestRunComplete: Completed.
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:27.533, 768143226558, vstest.console.exe, SocketServer.Stop: Stop server endPoint: 127.0.0.1:49473
+TpTrace Information: 0 : 4456, 8, 2020/09/10, 19:14:27.533, 768143227418, vstest.console.exe, TestRunRequest.Dispose: Completed.
+TpTrace Information: 0 : 4456, 8, 2020/09/10, 19:14:27.534, 768143231518, vstest.console.exe, TestRequestManager.RunTests: run tests completed.
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:27.534, 768143230287, vstest.console.exe, SocketServer.Stop: Cancellation requested. Stopping message loop.
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:27.534, 768143235142, vstest.console.exe, SocketServer.PrivateStop: Stop server endPoint: 127.0.0.1:49473 error: 
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:27.534, 768143238830, vstest.console.exe, SocketServer.Stop: Raise disconnected event endPoint: 127.0.0.1:49473 error: 
+TpTrace Information: 0 : 4456, 1, 2020/09/10, 19:14:27.576, 768143654459, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (TestExecution.Cancel) -> null
+TpTrace Information: 0 : 4456, 1, 2020/09/10, 19:14:27.576, 768143658466, vstest.console.exe, TestRequestManager.CancelTestRun: Sending cancel request.
+TpTrace Information: 0 : 4456, 1, 2020/09/10, 19:14:27.705, 768144946593, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (TestExecution.GetTestRunnerProcessStartInfoForRunSelected) -> {
+  "Sources": null,
+  "TestCases": [
+    {
+      "Properties": [
+        {
+          "Key": {
+            "Id": "TestCase.FullyQualifiedName",
+            "Label": "FullyQualifiedName",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.String"
+          },
+          "Value": "LabNotasTests.NotasFrequencias.AprovacaoDisciplina"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.ExecutorUri",
+            "Label": "Executor Uri",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.Uri"
+          },
+          "Value": "executor://MSTestAdapter/v2"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.Source",
+            "Label": "Source",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\bin\\Debug\\netcoreapp3.1\\LabNotasTests.dll"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.CodeFilePath",
+            "Label": "File Path",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\NotasFrequencias.cs"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.DisplayName",
+            "Label": "Name",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": "AprovacaoDisciplina"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.Id",
+            "Label": "Id",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.Guid"
+          },
+          "Value": "0f9e67e7-2d46-03f3-c520-c5a64d868358"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.LineNumber",
+            "Label": "Line Number",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.Int32"
+          },
+          "Value": 13
+        },
+        {
+          "Key": {
+            "Id": "MSTestDiscoverer.TestClassName",
+            "Label": "ClassName",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.String"
+          },
+          "Value": "LabNotasTests.NotasFrequencias"
+        },
+        {
+          "Key": {
+            "Id": "TestObject.Traits",
+            "Label": "Traits",
+            "Category": "",
+            "Description": "",
+            "Attributes": 5,
+            "ValueType": "System.Collections.Generic.KeyValuePair`2[[System.String],[System.String]][]"
+          },
+          "Value": []
+        }
+      ]
+    },
+    {
+      "Properties": [
+        {
+          "Key": {
+            "Id": "TestCase.FullyQualifiedName",
+            "Label": "FullyQualifiedName",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.String"
+          },
+          "Value": "LabNotasTests.NotasFrequencias.AprovacaoMinimaDisciplina"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.ExecutorUri",
+            "Label": "Executor Uri",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.Uri"
+          },
+          "Value": "executor://MSTestAdapter/v2"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.Source",
+            "Label": "Source",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\bin\\Debug\\netcoreapp3.1\\LabNotasTests.dll"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.CodeFilePath",
+            "Label": "File Path",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\NotasFrequencias.cs"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.DisplayName",
+            "Label": "Name",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": "AprovacaoMinimaDisciplina"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.Id",
+            "Label": "Id",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.Guid"
+          },
+          "Value": "a41287a6-2b57-5869-0a84-8f6ed7f64af8"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.LineNumber",
+            "Label": "Line Number",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.Int32"
+          },
+          "Value": 20
+        },
+        {
+          "Key": {
+            "Id": "MSTestDiscoverer.TestClassName",
+            "Label": "ClassName",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.String"
+          },
+          "Value": "LabNotasTests.NotasFrequencias"
+        },
+        {
+          "Key": {
+            "Id": "TestObject.Traits",
+            "Label": "Traits",
+            "Category": "",
+            "Description": "",
+            "Attributes": 5,
+            "ValueType": "System.Collections.Generic.KeyValuePair`2[[System.String],[System.String]][]"
+          },
+          "Value": []
+        }
+      ]
+    }
+  ],
+  "RunSettings": "<RunSettings>\r\n <RunConfiguration>\r\n\r\n  <MaxCpuCount>1</MaxCpuCount>\r\n  <TargetFrameworkVersion>.NETCoreApp,Version=v3.1</TargetFrameworkVersion><TestSessionTimeout>14057</TestSessionTimeout>\r\n\r\n<DesignMode>false</DesignMode>\r\n<BatchSize>1</BatchSize>\r\n </RunConfiguration><InProcDataCollectionRunSettings><InProcDataCollectors><InProcDataCollector friendlyName=\"StrykerCoverage\" uri=\"https://stryker-mutator.io/\" codebase=\"C:\\Users\\wilso\\.dotnet\\tools\\.store\\dotnet-stryker\\0.19.0\\dotnet-stryker\\0.19.0\\tools\\netcoreapp3.1\\any\\Stryker.DataCollector.dll\" assemblyQualifiedName=\"Stryker.DataCollector.CoverageCollector, Stryker.DataCollector, Version=0.16.1.0, Culture=neutral, PublicKeyToken=null\">\r\n<Configuration><Parameters><Mutant id='5' tests='0f9e67e7-2d46-03f3-c520-c5a64d868358,a41287a6-2b57-5869-0a84-8f6ed7f64af8'/><MutantControl  name='StrykerYFEvApuWyFVH0Wg.MutantControl'/></Parameters></Configuration></InProcDataCollector></InProcDataCollectors></InProcDataCollectionRunSettings>\r\n</RunSettings>",
+  "KeepAlive": false,
+  "DebuggingEnabled": false,
+  "TestPlatformOptions": null
+}
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:27.711, 768145014413, vstest.console.exe, TestRequestManager.RunTests: run tests started.
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:27.712, 768145024363, vstest.console.exe, AssemblyMetadataProvider.GetFrameWork: Determined framework:'.NETCoreApp,Version=v3.1' for source: 'C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1\LabNotasTests.dll'
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:27.713, 768145027756, vstest.console.exe, Determined framework for all sources: .NETCoreApp,Version=v3.1
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:27.762, 768145521590, vstest.console.exe, AssemblyMetadataProvider.GetArchitecture: Determined architecture:AnyCPU info for assembly: C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1\LabNotasTests.dll
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:27.762, 768145523974, vstest.console.exe, Determined platform for all sources: X64
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:27.763, 768145526194, vstest.console.exe, Compatible sources list : 
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:27.763, 768145527540, vstest.console.exe, C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1\LabNotasTests.dll
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:27.763, 768145531323, vstest.console.exe, InferRunSettingsHelper.IsTestSettingsEnabled: Unable to navigate to RunSettings/MSTest. Current node: RunSettings
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:27.768, 768145576501, vstest.console.exe, InferRunSettingsHelper.IsTestSettingsEnabled: Unable to navigate to RunSettings/MSTest. Current node: RunSettings
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:27.778, 768145679926, vstest.console.exe, TestRunRequest.ExecuteAsync: Starting run with settings:TestRunCriteria:
+   KeepAlive=False,FrequencyOfRunStatsChangeEvent=1,RunStatsChangeEventTimeout=00:00:01.5000000,TestCaseFilter=,TestExecutorLauncher=Microsoft.VisualStudio.TestPlatform.Client.DesignMode.DesignModeTestHostLauncher
+   Settingsxml=<RunSettings>
+  <RunConfiguration>
+    <MaxCpuCount>1</MaxCpuCount>
+    <TargetFrameworkVersion>.NETCoreApp,Version=v3.1</TargetFrameworkVersion>
+    <TestSessionTimeout>14057</TestSessionTimeout>
+    <DesignMode>false</DesignMode>
+    <BatchSize>1</BatchSize>
+    <TargetPlatform>X64</TargetPlatform>
+    <CollectSourceInformation>True</CollectSourceInformation>
+  </RunConfiguration>
+  <InProcDataCollectionRunSettings>
+    <InProcDataCollectors>
+      <InProcDataCollector friendlyName="StrykerCoverage" uri="https://stryker-mutator.io/" codebase="C:\Users\wilso\.dotnet\tools\.store\dotnet-stryker\0.19.0\dotnet-stryker\0.19.0\tools\netcoreapp3.1\any\Stryker.DataCollector.dll" assemblyQualifiedName="Stryker.DataCollector.CoverageCollector, Stryker.DataCollector, Version=0.16.1.0, Culture=neutral, PublicKeyToken=null">
+        <Configuration>
+          <Parameters>
+            <Mutant id="5" tests="0f9e67e7-2d46-03f3-c520-c5a64d868358,a41287a6-2b57-5869-0a84-8f6ed7f64af8" />
+            <MutantControl name="StrykerYFEvApuWyFVH0Wg.MutantControl" />
+          </Parameters>
+        </Configuration>
+      </InProcDataCollector>
+    </InProcDataCollectors>
+  </InProcDataCollectionRunSettings>
+  <LoggerRunSettings>
+    <Loggers>
+      <Logger friendlyName="Console" uri="logger://microsoft/TestPlatform/ConsoleLogger/v1" assemblyQualifiedName="Microsoft.VisualStudio.TestPlatform.CommandLine.Internal.ConsoleLogger, vstest.console, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" codeBase="C:\Users\wilso\AppData\Local\Temp\5y3im2b1.1wq\.vstest\tools\net451\vstest.console.exe" enabled="True" />
+    </Loggers>
+  </LoggerRunSettings>
+</RunSettings>
+
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:27.779, 768145685042, vstest.console.exe, ProxyParallelExecutionManager: Triggering test run for next source: C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1\LabNotasTests.dll
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:27.779, 768145687022, vstest.console.exe, TestRunRequest.ExecuteAsync: Started.
+TpTrace Information: 0 : 4456, 10, 2020/09/10, 19:14:27.779, 768145692852, vstest.console.exe, SocketServer.Start: Listening on endpoint : 127.0.0.1:49479
+TpTrace Information: 0 : 4456, 1, 2020/09/10, 19:14:27.799, 768145892551, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (TestExecution.CustomTestHostLaunchCallback) -> {
+  "HostProcessId": 12100,
+  "ErrorMessage": null
+}
+TpTrace Warning: 0 : 4456, 5, 2020/09/10, 19:14:28.649, 768154390427, vstest.console.exe, TestRunRequest.SendTestRunMessage: Ignoring as the object is disposed.
+TpTrace Warning: 0 : 4456, 5, 2020/09/10, 19:14:28.650, 768154397303, vstest.console.exe, Ignoring TestRunRequest.Abort() as testRunRequest object has already been disposed
+TpTrace Information: 0 : 4456, 10, 2020/09/10, 19:14:30.386, 768171757285, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 4456, 8, 2020/09/10, 19:14:30.431, 768172205819, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 4456, 8, 2020/09/10, 19:14:31.300, 768180895529, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 4456, 8, 2020/09/10, 19:14:31.499, 768182879941, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 4456, 8, 2020/09/10, 19:14:31.500, 768182890078, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 4456, 8, 2020/09/10, 19:14:31.576, 768183658741, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 4456, 11, 2020/09/10, 19:14:31.689, 768184789289, vstest.console.exe, TestHostManagerCallbacks.ExitCallBack: Testhost processId: 12100 exited with exitcode: 0 error: ''
+TpTrace Information: 0 : 4456, 11, 2020/09/10, 19:14:31.689, 768184791718, vstest.console.exe, TestRequestSender.OnClientProcessExit: Test host process exited. Standard error: 
+TpTrace Information: 0 : 4456, 11, 2020/09/10, 19:14:31.690, 768184793303, vstest.console.exe, SocketServer.Stop: Stop server endPoint: 127.0.0.1:49479
+TpTrace Information: 0 : 4456, 11, 2020/09/10, 19:14:31.690, 768184794375, vstest.console.exe, SocketServer.Stop: Cancellation requested. Stopping message loop.
+TpTrace Warning: 0 : 4456, 8, 2020/09/10, 19:14:31.689, 768184791846, vstest.console.exe, ProxyOperationManager: Timed out waiting for test host to exit. Will terminate process.
+TpTrace Information: 0 : 4456, 8, 2020/09/10, 19:14:31.690, 768184801664, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 4456, 8, 2020/09/10, 19:14:31.697, 768184867080, vstest.console.exe, TestRunRequest:TestRunComplete: Completed.
+TpTrace Information: 0 : 4456, 8, 2020/09/10, 19:14:31.697, 768184869761, vstest.console.exe, SocketServer.Stop: Stop server endPoint: 127.0.0.1:49479
+TpTrace Information: 0 : 4456, 8, 2020/09/10, 19:14:31.697, 768184871744, vstest.console.exe, SocketServer.Stop: Cancellation requested. Stopping message loop.
+TpTrace Information: 0 : 4456, 8, 2020/09/10, 19:14:31.698, 768184873251, vstest.console.exe, SocketServer.PrivateStop: Stop server endPoint: 127.0.0.1:49479 error: 
+TpTrace Information: 0 : 4456, 8, 2020/09/10, 19:14:31.698, 768184876649, vstest.console.exe, SocketServer.Stop: Raise disconnected event endPoint: 127.0.0.1:49479 error: 
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:31.697, 768184869940, vstest.console.exe, TestRunRequest.Dispose: Completed.
+TpTrace Information: 0 : 4456, 6, 2020/09/10, 19:14:31.699, 768184884876, vstest.console.exe, TestRequestManager.RunTests: run tests completed.
+TpTrace Information: 0 : 4456, 1, 2020/09/10, 19:14:31.822, 768186114548, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (TestSession.Terminate) -> null
+TpTrace Information: 0 : 4456, 1, 2020/09/10, 19:14:31.822, 768186117507, vstest.console.exe, DesignModeClient: Session End message received from server. Closing the connection.
+rsion>.NETCoreApp,Version=v3.1</TargetFrameworkVersion><TestSessionTimeout>14057</TestSessionTimeout>\r\n\r\n<DesignMode>false</DesignMode>\r\n<BatchSize>1</BatchSize>\r\n </RunConfiguration><InProcDataCollectionRunSettings><InProcDataCollectors><InProcDataCollector friendlyName=\"StrykerCoverage\" uri=\"https://stryker-mutator.io/\" codebase=\"C:\\Users\\wilso\\.dotnet\\tools\\.store\\dotnet-stryker\\0.19.0\\dotnet-stryker\\0.19.0\\tools\\netcoreapp3.1\\any\\Stryker.DataCollector.dll\" assemblyQualifiedName=\"Stryker.DataCollector.CoverageCollector, Stryker.DataCollector, Version=0.16.1.0, Culture=neutral, PublicKeyToken=null\">\r\n<Configuration><Parameters><Mutant id='1' tests='0f9e67e7-2d46-03f3-c520-c5a64d868358,a41287a6-2b57-5869-0a84-8f6ed7f64af8,91cb4b34-9bc9-ccc5-cc4d-add040dae01e'/><MutantControl  name='StrykerYFEvApuWyFVH0Wg.MutantControl'/></Parameters></Configuration></InProcDataCollector></InProcDataCollectors></InProcDataCollectionRunSettings>\r\n</RunSettings>",
+  "KeepAlive": false,
+  "DebuggingEnabled": false,
+  "TestPlatformOptions": null
+}
+TpTrace Information: 0 : 4940, 9, 2020/09/10, 19:14:20.519, 768073089721, vstest.console.exe, TestRequestManager.RunTests: run tests started.
+TpTrace Information: 0 : 4940, 9, 2020/09/10, 19:14:20.521, 768073111857, vstest.console.exe, AssemblyMetadataProvider.GetFrameWork: Determined framework:'.NETCoreApp,Version=v3.1' for source: 'C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1\LabNotasTests.dll'
+TpTrace Information: 0 : 4940, 9, 2020/09/10, 19:14:20.522, 768073115314, vstest.console.exe, Determined framework for all sources: .NETCoreApp,Version=v3.1
+TpTrace Information: 0 : 4940, 9, 2020/09/10, 19:14:20.545, 768073348785, vstest.console.exe, AssemblyMetadataProvider.GetArchitecture: Determined architecture:AnyCPU info for assembly: C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1\LabNotasTests.dll
+TpTrace Information: 0 : 4940, 9, 2020/09/10, 19:14:20.545, 768073350707, vstest.console.exe, Determined platform for all sources: X64
+TpTrace Information: 0 : 4940, 9, 2020/09/10, 19:14:20.545, 768073352046, vstest.console.exe, Compatible sources list : 
+TpTrace Information: 0 : 4940, 9, 2020/09/10, 19:14:20.545, 768073353048, vstest.console.exe, C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1\LabNotasTests.dll
+TpTrace Information: 0 : 4940, 9, 2020/09/10, 19:14:20.546, 768073356449, vstest.console.exe, InferRunSettingsHelper.IsTestSettingsEnabled: Unable to navigate to RunSettings/MSTest. Current node: RunSettings
+TpTrace Information: 0 : 4940, 9, 2020/09/10, 19:14:20.548, 768073378369, vstest.console.exe, InferRunSettingsHelper.IsTestSettingsEnabled: Unable to navigate to RunSettings/MSTest. Current node: RunSettings
+TpTrace Information: 0 : 4940, 9, 2020/09/10, 19:14:20.549, 768073384519, vstest.console.exe, TestRunRequest.ExecuteAsync: Starting run with settings:TestRunCriteria:
+   KeepAlive=False,FrequencyOfRunStatsChangeEvent=1,RunStatsChangeEventTimeout=00:00:01.5000000,TestCaseFilter=,TestExecutorLauncher=Microsoft.VisualStudio.TestPlatform.Client.DesignMode.DesignModeTestHostLauncher
+   Settingsxml=<RunSettings>
+  <RunConfiguration>
+    <MaxCpuCount>1</MaxCpuCount>
+    <TargetFrameworkVersion>.NETCoreApp,Version=v3.1</TargetFrameworkVersion>
+    <TestSessionTimeout>14057</TestSessionTimeout>
+    <DesignMode>false</DesignMode>
+    <BatchSize>1</BatchSize>
+    <TargetPlatform>X64</TargetPlatform>
+    <CollectSourceInformation>True</CollectSourceInformation>
+  </RunConfiguration>
+  <InProcDataCollectionRunSettings>
+    <InProcDataCollectors>
+      <InProcDataCollector friendlyName="StrykerCoverage" uri="https://stryker-mutator.io/" codebase="C:\Users\wilso\.dotnet\tools\.store\dotnet-stryker\0.19.0\dotnet-stryker\0.19.0\tools\netcoreapp3.1\any\Stryker.DataCollector.dll" assemblyQualifiedName="Stryker.DataCollector.CoverageCollector, Stryker.DataCollector, Version=0.16.1.0, Culture=neutral, PublicKeyToken=null">
+        <Configuration>
+          <Parameters>
+            <Mutant id="1" tests="0f9e67e7-2d46-03f3-c520-c5a64d868358,a41287a6-2b57-5869-0a84-8f6ed7f64af8,91cb4b34-9bc9-ccc5-cc4d-add040dae01e" />
+            <MutantControl name="StrykerYFEvApuWyFVH0Wg.MutantControl" />
+          </Parameters>
+        </Configuration>
+      </InProcDataCollector>
+    </InProcDataCollectors>
+  </InProcDataCollectionRunSettings>
+  <LoggerRunSettings>
+    <Loggers>
+      <Logger friendlyName="Console" uri="logger://microsoft/TestPlatform/ConsoleLogger/v1" assemblyQualifiedName="Microsoft.VisualStudio.TestPlatform.CommandLine.Internal.ConsoleLogger, vstest.console, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" codeBase="C:\Users\wilso\AppData\Local\Temp\5y3im2b1.1wq\.vstest\tools\net451\vstest.console.exe" enabled="True" />
+    </Loggers>
+  </LoggerRunSettings>
+</RunSettings>
+
+TpTrace Information: 0 : 4940, 9, 2020/09/10, 19:14:20.549, 768073388727, vstest.console.exe, ProxyParallelExecutionManager: Triggering test run for next source: C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1\LabNotasTests.dll
+TpTrace Information: 0 : 4940, 9, 2020/09/10, 19:14:20.549, 768073391164, vstest.console.exe, TestRunRequest.ExecuteAsync: Started.
+TpTrace Information: 0 : 4940, 6, 2020/09/10, 19:14:20.550, 768073397916, vstest.console.exe, SocketServer.Start: Listening on endpoint : 127.0.0.1:49472
+TpTrace Information: 0 : 4940, 1, 2020/09/10, 19:14:20.564, 768073542105, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (TestExecution.CustomTestHostLaunchCallback) -> {
+  "HostProcessId": 23528,
+  "ErrorMessage": null
+}
+TpTrace Information: 0 : 4940, 6, 2020/09/10, 19:14:21.927, 768087161211, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 4940, 7, 2020/09/10, 19:14:21.973, 768087620202, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 4940, 7, 2020/09/10, 19:14:22.838, 768096274776, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 4940, 7, 2020/09/10, 19:14:23.148, 768099374615, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 4940, 7, 2020/09/10, 19:14:23.149, 768099387063, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 4940, 7, 2020/09/10, 19:14:23.153, 768099424374, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 4940, 7, 2020/09/10, 19:14:23.154, 768099435775, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 4940, 7, 2020/09/10, 19:14:23.161, 768099503646, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 4940, 13, 2020/09/10, 19:14:23.258, 768100475911, vstest.console.exe, TestHostManagerCallbacks.ExitCallBack: Testhost processId: 23528 exited with exitcode: 0 error: ''
+TpTrace Information: 0 : 4940, 13, 2020/09/10, 19:14:23.258, 768100478640, vstest.console.exe, TestRequestSender.OnClientProcessExit: Test host process exited. Standard error: 
+TpTrace Information: 0 : 4940, 13, 2020/09/10, 19:14:23.258, 768100480108, vstest.console.exe, SocketServer.Stop: Stop server endPoint: 127.0.0.1:49472
+TpTrace Warning: 0 : 4940, 7, 2020/09/10, 19:14:23.258, 768100478796, vstest.console.exe, ProxyOperationManager: Timed out waiting for test host to exit. Will terminate process.
+TpTrace Information: 0 : 4940, 13, 2020/09/10, 19:14:23.259, 768100481948, vstest.console.exe, SocketServer.Stop: Cancellation requested. Stopping message loop.
+TpTrace Information: 0 : 4940, 7, 2020/09/10, 19:14:23.259, 768100489115, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 4940, 7, 2020/09/10, 19:14:23.265, 768100542190, vstest.console.exe, TestRunRequest:TestRunComplete: Completed.
+TpTrace Information: 0 : 4940, 9, 2020/09/10, 19:14:23.265, 768100544522, vstest.console.exe, TestRunRequest.Dispose: Completed.
+TpTrace Information: 0 : 4940, 7, 2020/09/10, 19:14:23.265, 768100544776, vstest.console.exe, SocketServer.Stop: Stop server endPoint: 127.0.0.1:49472
+TpTrace Information: 0 : 4940, 9, 2020/09/10, 19:14:23.265, 768100545890, vstest.console.exe, TestRequestManager.RunTests: run tests completed.
+TpTrace Information: 0 : 4940, 7, 2020/09/10, 19:14:23.265, 768100546990, vstest.console.exe, SocketServer.Stop: Cancellation requested. Stopping message loop.
+TpTrace Information: 0 : 4940, 7, 2020/09/10, 19:14:23.265, 768100549749, vstest.console.exe, SocketServer.PrivateStop: Stop server endPoint: 127.0.0.1:49472 error: 
+TpTrace Information: 0 : 4940, 7, 2020/09/10, 19:14:23.266, 768100557184, vstest.console.exe, SocketServer.Stop: Raise disconnected event endPoint: 127.0.0.1:49472 error: 
+TpTrace Information: 0 : 4940, 1, 2020/09/10, 19:14:23.274, 768100633584, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (TestExecution.Cancel) -> null
+TpTrace Information: 0 : 4940, 1, 2020/09/10, 19:14:23.274, 768100638679, vstest.console.exe, TestRequestManager.CancelTestRun: Sending cancel request.
+TpTrace Information: 0 : 4940, 1, 2020/09/10, 19:14:23.287, 768100763076, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (TestExecution.GetTestRunnerProcessStartInfoForRunSelected) -> {
+  "Sources": null,
+  "TestCases": [
+    {
+      "Properties": [
+        {
+          "Key": {
+            "Id": "TestCase.FullyQualifiedName",
+            "Label": "FullyQualifiedName",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.String"
+          },
+          "Value": "LabNotasTests.NotasFrequencias.AprovacaoDisciplina"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.ExecutorUri",
+            "Label": "Executor Uri",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.Uri"
+          },
+          "Value": "executor://MSTestAdapter/v2"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.Source",
+            "Label": "Source",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\bin\\Debug\\netcoreapp3.1\\LabNotasTests.dll"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.CodeFilePath",
+            "Label": "File Path",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\NotasFrequencias.cs"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.DisplayName",
+            "Label": "Name",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": "AprovacaoDisciplina"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.Id",
+            "Label": "Id",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.Guid"
+          },
+          "Value": "0f9e67e7-2d46-03f3-c520-c5a64d868358"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.LineNumber",
+            "Label": "Line Number",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.Int32"
+          },
+          "Value": 13
+        },
+        {
+          "Key": {
+            "Id": "MSTestDiscoverer.TestClassName",
+            "Label": "ClassName",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.String"
+          },
+          "Value": "LabNotasTests.NotasFrequencias"
+        },
+        {
+          "Key": {
+            "Id": "TestObject.Traits",
+            "Label": "Traits",
+            "Category": "",
+            "Description": "",
+            "Attributes": 5,
+            "ValueType": "System.Collections.Generic.KeyValuePair`2[[System.String],[System.String]][]"
+          },
+          "Value": []
+        }
+      ]
+    },
+    {
+      "Properties": [
+        {
+          "Key": {
+            "Id": "TestCase.FullyQualifiedName",
+            "Label": "FullyQualifiedName",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.String"
+          },
+          "Value": "LabNotasTests.NotasFrequencias.AprovacaoMinimaDisciplina"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.ExecutorUri",
+            "Label": "Executor Uri",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.Uri"
+          },
+          "Value": "executor://MSTestAdapter/v2"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.Source",
+            "Label": "Source",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\bin\\Debug\\netcoreapp3.1\\LabNotasTests.dll"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.CodeFilePath",
+            "Label": "File Path",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\NotasFrequencias.cs"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.DisplayName",
+            "Label": "Name",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": "AprovacaoMinimaDisciplina"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.Id",
+            "Label": "Id",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.Guid"
+          },
+          "Value": "a41287a6-2b57-5869-0a84-8f6ed7f64af8"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.LineNumber",
+            "Label": "Line Number",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.Int32"
+          },
+          "Value": 20
+        },
+        {
+          "Key": {
+            "Id": "MSTestDiscoverer.TestClassName",
+            "Label": "ClassName",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.String"
+          },
+          "Value": "LabNotasTests.NotasFrequencias"
+        },
+        {
+          "Key": {
+            "Id": "TestObject.Traits",
+            "Label": "Traits",
+            "Category": "",
+            "Description": "",
+            "Attributes": 5,
+            "ValueType": "System.Collections.Generic.KeyValuePair`2[[System.String],[System.String]][]"
+          },
+          "Value": []
+        }
+      ]
+    },
+    {
+      "Properties": [
+        {
+          "Key": {
+            "Id": "TestCase.FullyQualifiedName",
+            "Label": "FullyQualifiedName",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.String"
+          },
+          "Value": "LabNotasTests.NotasFrequencias.ReprovacaoDisciplina"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.ExecutorUri",
+            "Label": "Executor Uri",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.Uri"
+          },
+          "Value": "executor://MSTestAdapter/v2"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.Source",
+            "Label": "Source",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\bin\\Debug\\netcoreapp3.1\\LabNotasTests.dll"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.CodeFilePath",
+            "Label": "File Path",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\NotasFrequencias.cs"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.DisplayName",
+            "Label": "Name",
+            "Category": "",
+            "Description": "",
+            "Attributes": 0,
+            "ValueType": "System.String"
+          },
+          "Value": "ReprovacaoDisciplina"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.Id",
+            "Label": "Id",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.Guid"
+          },
+          "Value": "91cb4b34-9bc9-ccc5-cc4d-add040dae01e"
+        },
+        {
+          "Key": {
+            "Id": "TestCase.LineNumber",
+            "Label": "Line Number",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.Int32"
+          },
+          "Value": 27
+        },
+        {
+          "Key": {
+            "Id": "MSTestDiscoverer.TestClassName",
+            "Label": "ClassName",
+            "Category": "",
+            "Description": "",
+            "Attributes": 1,
+            "ValueType": "System.String"
+          },
+          "Value": "LabNotasTests.NotasFrequencias"
+        },
+        {
+          "Key": {
+            "Id": "TestObject.Traits",
+            "Label": "Traits",
+            "Category": "",
+            "Description": "",
+            "Attributes": 5,
+            "ValueType": "System.Collections.Generic.KeyValuePair`2[[System.String],[System.String]][]"
+          },
+          "Value": []
+        }
+      ]
+    }
+  ],
+  "RunSettings": "<RunSettings>\r\n <RunConfiguration>\r\n\r\n  <MaxCpuCount>1</MaxCpuCount>\r\n  <TargetFrameworkVersion>.NETCoreApp,Version=v3.1</TargetFrameworkVersion><TestSessionTimeout>14057</TestSessionTimeout>\r\n\r\n<DesignMode>false</DesignMode>\r\n<BatchSize>1</BatchSize>\r\n </RunConfiguration><InProcDataCollectionRunSettings><InProcDataCollectors><InProcDataCollector friendlyName=\"StrykerCoverage\" uri=\"https://stryker-mutator.io/\" codebase=\"C:\\Users\\wilso\\.dotnet\\tools\\.store\\dotnet-stryker\\0.19.0\\dotnet-stryker\\0.19.0\\tools\\netcoreapp3.1\\any\\Stryker.DataCollector.dll\" assemblyQualifiedName=\"Stryker.DataCollector.CoverageCollector, Stryker.DataCollector, Version=0.16.1.0, Culture=neutral, PublicKeyToken=null\">\r\n<Configuration><Parameters><Mutant id='2' tests='0f9e67e7-2d46-03f3-c520-c5a64d868358,a41287a6-2b57-5869-0a84-8f6ed7f64af8,91cb4b34-9bc9-ccc5-cc4d-add040dae01e'/><MutantControl  name='StrykerYFEvApuWyFVH0Wg.MutantControl'/></Parameters></Configuration></InProcDataCollector></InProcDataCollectors></InProcDataCollectionRunSettings>\r\n</RunSettings>",
+  "KeepAlive": false,
+  "DebuggingEnabled": false,
+  "TestPlatformOptions": null
+}
+TpTrace Information: 0 : 4940, 7, 2020/09/10, 19:14:23.288, 768100779169, vstest.console.exe, TestRequestManager.RunTests: run tests started.
+TpTrace Information: 0 : 4940, 7, 2020/09/10, 19:14:23.289, 768100787312, vstest.console.exe, AssemblyMetadataProvider.GetFrameWork: Determined framework:'.NETCoreApp,Version=v3.1' for source: 'C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1\LabNotasTests.dll'
+TpTrace Information: 0 : 4940, 7, 2020/09/10, 19:14:23.289, 768100789739, vstest.console.exe, Determined framework for all sources: .NETCoreApp,Version=v3.1
+TpTrace Information: 0 : 4940, 7, 2020/09/10, 19:14:23.317, 768101063572, vstest.console.exe, AssemblyMetadataProvider.GetArchitecture: Determined architecture:AnyCPU info for assembly: C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1\LabNotasTests.dll
+TpTrace Information: 0 : 4940, 7, 2020/09/10, 19:14:23.317, 768101065876, vstest.console.exe, Determined platform for all sources: X64
+TpTrace Information: 0 : 4940, 7, 2020/09/10, 19:14:23.317, 768101067923, vstest.console.exe, Compatible sources list : 
+TpTrace Information: 0 : 4940, 7, 2020/09/10, 19:14:23.317, 768101069424, vstest.console.exe, C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1\LabNotasTests.dll
+TpTrace Information: 0 : 4940, 7, 2020/09/10, 19:14:23.318, 768101074179, vstest.console.exe, InferRunSettingsHelper.IsTestSettingsEnabled: Unable to navigate to RunSettings/MSTest. Current node: RunSettings
+TpTrace Information: 0 : 4940, 7, 2020/09/10, 19:14:23.323, 768101126677, vstest.console.exe, InferRunSettingsHelper.IsTestSettingsEnabled: Unable to navigate to RunSettings/MSTest. Current node: RunSettings
+TpTrace Information: 0 : 4940, 7, 2020/09/10, 19:14:23.324, 768101133320, vstest.console.exe, TestRunRequest.ExecuteAsync: Starting run with settings:TestRunCriteria:
+   KeepAlive=False,FrequencyOfRunStatsChangeEvent=1,RunStatsChangeEventTimeout=00:00:01.5000000,TestCaseFilter=,TestExecutorLauncher=Microsoft.VisualStudio.TestPlatform.Client.DesignMode.DesignModeTestHostLauncher
+   Settingsxml=<RunSettings>
+  <RunConfiguration>
+    <MaxCpuCount>1</MaxCpuCount>
+    <TargetFrameworkVersion>.NETCoreApp,Version=v3.1</TargetFrameworkVersion>
+    <TestSessionTimeout>14057</TestSessionTimeout>
+    <DesignMode>false</DesignMode>
+    <BatchSize>1</BatchSize>
+    <TargetPlatform>X64</TargetPlatform>
+    <CollectSourceInformation>True</CollectSourceInformation>
+  </RunConfiguration>
+  <InProcDataCollectionRunSettings>
+    <InProcDataCollectors>
+      <InProcDataCollector friendlyName="StrykerCoverage" uri="https://stryker-mutator.io/" codebase="C:\Users\wilso\.dotnet\tools\.store\dotnet-stryker\0.19.0\dotnet-stryker\0.19.0\tools\netcoreapp3.1\any\Stryker.DataCollector.dll" assemblyQualifiedName="Stryker.DataCollector.CoverageCollector, Stryker.DataCollector, Version=0.16.1.0, Culture=neutral, PublicKeyToken=null">
+        <Configuration>
+          <Parameters>
+            <Mutant id="2" tests="0f9e67e7-2d46-03f3-c520-c5a64d868358,a41287a6-2b57-5869-0a84-8f6ed7f64af8,91cb4b34-9bc9-ccc5-cc4d-add040dae01e" />
+            <MutantControl name="StrykerYFEvApuWyFVH0Wg.MutantControl" />
+          </Parameters>
+        </Configuration>
+      </InProcDataCollector>
+    </InProcDataCollectors>
+  </InProcDataCollectionRunSettings>
+  <LoggerRunSettings>
+    <Loggers>
+      <Logger friendlyName="Console" uri="logger://microsoft/TestPlatform/ConsoleLogger/v1" assemblyQualifiedName="Microsoft.VisualStudio.TestPlatform.CommandLine.Internal.ConsoleLogger, vstest.console, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" codeBase="C:\Users\wilso\AppData\Local\Temp\5y3im2b1.1wq\.vstest\tools\net451\vstest.console.exe" enabled="True" />
+    </Loggers>
+  </LoggerRunSettings>
+</RunSettings>
+
+TpTrace Information: 0 : 4940, 7, 2020/09/10, 19:14:23.324, 768101136731, vstest.console.exe, ProxyParallelExecutionManager: Triggering test run for next source: C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1\LabNotasTests.dll
+TpTrace Information: 0 : 4940, 7, 2020/09/10, 19:14:23.324, 768101138800, vstest.console.exe, TestRunRequest.ExecuteAsync: Started.
+TpTrace Information: 0 : 4940, 14, 2020/09/10, 19:14:23.325, 768101144158, vstest.console.exe, SocketServer.Start: Listening on endpoint : 127.0.0.1:49475
+TpTrace Information: 0 : 4940, 1, 2020/09/10, 19:14:23.338, 768101276376, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (TestExecution.CustomTestHostLaunchCallback) -> {
+  "HostProcessId": 18724,
+  "ErrorMessage": null
+}
+TpTrace Information: 0 : 4940, 14, 2020/09/10, 19:14:25.336, 768121250810, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 4940, 9, 2020/09/10, 19:14:25.388, 768121771146, vstest.console.exe, TestRunRequest:SendTestRunMessage: Completed.
+TpTrace Information: 0 : 4940, 9, 2020/09/10, 19:14:26.559, 768133481013, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 4940, 9, 2020/09/10, 19:14:26.996, 768137853940, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 4940, 9, 2020/09/10, 19:14:26.997, 768137868136, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 4940, 9, 2020/09/10, 19:14:27.002, 768137918289, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 4940, 9, 2020/09/10, 19:14:27.003, 768137928871, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 4940, 9, 2020/09/10, 19:14:27.008, 768137973416, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Warning: 0 : 4940, 9, 2020/09/10, 19:14:27.235, 768140244484, vstest.console.exe, ProxyOperationManager: Timed out waiting for test host to exit. Will terminate process.
+TpTrace Information: 0 : 4940, 9, 2020/09/10, 19:14:27.236, 768140257472, vstest.console.exe, TestRunRequest:SendTestRunStatsChange: Completed.
+TpTrace Information: 0 : 4940, 13, 2020/09/10, 19:14:27.305, 768140946630, vstest.console.exe, TestHostManagerCallbacks.ExitCallBack: Testhost processId: 18724 exited with exitcode: 0 error: ''
+TpTrace Information: 0 : 4940, 9, 2020/09/10, 19:14:27.537, 768143259196, vstest.console.exe, TestRunRequest:TestRunComplete: Completed.
+TpTrace Information: 0 : 4940, 9, 2020/09/10, 19:14:27.537, 768143261810, vstest.console.exe, SocketServer.Stop: Stop server endPoint: 127.0.0.1:49475
+TpTrace Information: 0 : 4940, 9, 2020/09/10, 19:14:27.537, 768143263110, vstest.console.exe, SocketServer.Stop: Cancellation requested. Stopping message loop.
+TpTrace Information: 0 : 4940, 9, 2020/09/10, 19:14:27.537, 768143264218, vstest.console.exe, SocketServer.PrivateStop: Stop server endPoint: 127.0.0.1:49475 error: 
+TpTrace Information: 0 : 4940, 7, 2020/09/10, 19:14:27.537, 768143262239, vstest.console.exe, TestRunRequest.Dispose: Completed.
+TpTrace Information: 0 : 4940, 7, 2020/09/10, 19:14:27.537, 768143266739, vstest.console.exe, TestRequestManager.RunTests: run tests completed.
+TpTrace Information: 0 : 4940, 9, 2020/09/10, 19:14:27.537, 768143267907, vstest.console.exe, SocketServer.Stop: Raise disconnected event endPoint: 127.0.0.1:49475 error: 
+TpTrace Information: 0 : 4940, 1, 2020/09/10, 19:14:27.566, 768143557349, vstest.console.exe, DesignModeClient.ProcessRequests: Processing Message: (TestExecution.Cancel) -> null
+TpTrace Information: 0 : 4940, 1, 2020/09/10, 19:14:27.567, 768143562602, vstest.console.exe, TestRequestManager.CancelTestRun: Sending cancel request.
+TpTrace Warning: 0 : 4940, 9, 2020/09/10, 19:14:28.153, 768149429504, vstest.console.exe, TestRunRequest.SendTestRunMessage: Ignoring as the object is disposed.
+TpTrace Warning: 0 : 4940, 9, 2020/09/10, 19:14:28.154, 768149437488, vstest.console.exe, Ignoring TestRunRequest.Abort() as testRunRequest object has already been disposed
+TpTrace Information: 0 : 4940, 13, 2020/09/10, 19:14:32.786, 768195751095, vstest.console.exe, PortArgumentProcessor: parent process:24272 exited.
+TpTrace Information: 0 : 4940, 13, 2020/09/10, 19:14:32.787, 768195763605, vstest.console.exe, DesignModeClient: Parent process exited, Exiting myself..
+TpTrace Error: 0 : 4940, 1, 2020/09/10, 19:14:32.790, 768195788891, vstest.console.exe, DesignModeClient: Error processing request: System.IO.IOException: Não é possível ler os dados da conexão de transporte: Foi forçado o cancelamento de uma conexão existente pelo host remoto. ---> System.Net.Sockets.SocketException: Foi forçado o cancelamento de uma conexão existente pelo host remoto
+   em System.Net.Sockets.Socket.Receive(Byte[] buffer, Int32 offset, Int32 size, SocketFlags socketFlags)
+   em System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   --- Fim do rastreamento de pilha de exceções internas ---
+   em System.Net.Sockets.NetworkStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   em System.IO.Stream.ReadByte()
+   em System.IO.BinaryReader.ReadByte()
+   em System.IO.BinaryReader.Read7BitEncodedInt()
+   em System.IO.BinaryReader.ReadString()
+   em Microsoft.VisualStudio.TestPlatform.CommunicationUtilities.SocketCommunicationManager.ReceiveRawMessage()
+   em Microsoft.VisualStudio.TestPlatform.CommunicationUtilities.SocketCommunicationManager.ReceiveMessage()
+   em Microsoft.VisualStudio.TestPlatform.Client.DesignMode.DesignModeClient.ProcessRequests(ITestRequestManager testRequestManager)

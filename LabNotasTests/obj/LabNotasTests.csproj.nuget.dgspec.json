@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\wilso\\Source\\Repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\LabNotasTests.csproj": {}
+    "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\LabNotasTests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\wilso\\Source\\Repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\LabNotasTests.csproj": {
+    "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\LabNotasTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wilso\\Source\\Repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\LabNotasTests.csproj",
+        "projectUniqueName": "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\LabNotasTests.csproj",
         "projectName": "LabNotasTests",
-        "projectPath": "C:\\Users\\wilso\\Source\\Repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\LabNotasTests.csproj",
+        "projectPath": "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\LabNotasTests.csproj",
         "packagesPath": "C:\\Users\\wilso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wilso\\Source\\Repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\obj\\",
+        "outputPath": "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -31,8 +31,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\wilso\\Source\\Repos\\zarantonello\\medium-testes-mutantes\\LabNotas\\LabNotas.csproj": {
-                "projectPath": "C:\\Users\\wilso\\Source\\Repos\\zarantonello\\medium-testes-mutantes\\LabNotas\\LabNotas.csproj"
+              "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotas\\LabNotas.csproj": {
+                "projectPath": "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotas\\LabNotas.csproj"
               }
             }
           }
@@ -82,14 +82,14 @@
         }
       }
     },
-    "C:\\Users\\wilso\\Source\\Repos\\zarantonello\\medium-testes-mutantes\\LabNotas\\LabNotas.csproj": {
+    "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotas\\LabNotas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\wilso\\Source\\Repos\\zarantonello\\medium-testes-mutantes\\LabNotas\\LabNotas.csproj",
+        "projectUniqueName": "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotas\\LabNotas.csproj",
         "projectName": "LabNotas",
-        "projectPath": "C:\\Users\\wilso\\Source\\Repos\\zarantonello\\medium-testes-mutantes\\LabNotas\\LabNotas.csproj",
+        "projectPath": "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotas\\LabNotas.csproj",
         "packagesPath": "C:\\Users\\wilso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\wilso\\Source\\Repos\\zarantonello\\medium-testes-mutantes\\LabNotas\\obj\\",
+        "outputPath": "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

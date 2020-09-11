@@ -1,0 +1,51 @@
+TpTrace Information: 0 : 25180, 1, 2020/09/10, 19:13:51.667, 767784591255, testhost.dll, DefaultEngineInvoker.Invoke: Testhost process started with args :[--port, 49456],[--endpoint, 127.0.0.1:049456],[--role, client],[--parentprocessid, 24284],[--diag, C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\StrykerOutput\2020-09-10.19-13-17\logs\VsTest-log.host.20-09-10_19-13-49_93287_9.txt],[--tracelevel, 3],[--telemetryoptedin, false]
+TpTrace Information: 0 : 25180, 1, 2020/09/10, 19:13:51.679, 767784678604, testhost.dll, DefaultEngineInvoker.SetParentProcessExitCallback: Monitoring parent process with id: '24284'
+TpTrace Information: 0 : 25180, 1, 2020/09/10, 19:13:51.715, 767785044220, testhost.dll, DefaultEngineInvoker.GetConnectionInfo: Initialize communication on endpoint address: '127.0.0.1:049456'
+TpTrace Information: 0 : 25180, 1, 2020/09/10, 19:13:51.785, 767785739304, testhost.dll, SocketClient.Start: connecting to server endpoint: 127.0.0.1:049456
+TpTrace Information: 0 : 25180, 1, 2020/09/10, 19:13:51.803, 767785925667, testhost.dll, DefaultEngineInvoker.Invoke: Start Request Processing.
+TpTrace Information: 0 : 25180, 4, 2020/09/10, 19:13:51.838, 767786268209, testhost.dll, SocketClient.OnServerConnected: connected to server endpoint: 127.0.0.1:049456
+TpTrace Information: 0 : 25180, 8, 2020/09/10, 19:13:51.843, 767786322604, testhost.dll, DefaultEngineInvoker.StartProcessingAsync: Connected to vstest.console, Starting process requests.
+TpTrace Information: 0 : 25180, 10, 2020/09/10, 19:13:52.587, 767793758149, testhost.dll, TestRequestHandler.ProcessRequests: received message: (ProtocolVersion) -> 3
+TpTrace Information: 0 : 25180, 10, 2020/09/10, 19:13:52.849, 767796378448, testhost.dll, TestRequestHandler.ProcessRequests: received message: (TestDiscovery.Initialize) -> [
+  "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\bin\\Debug\\netcoreapp3.1\\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll"
+]
+TpTrace Information: 0 : 25180, 10, 2020/09/10, 19:13:52.849, 767796382165, testhost.dll, Discovery Session Initialize.
+TpTrace Information: 0 : 25180, 10, 2020/09/10, 19:13:52.876, 767796652510, testhost.dll, TestRequestHandler.ProcessRequests: received message: (TestDiscovery.Start) -> {
+  "Package": null,
+  "AdapterSourceMap": {
+    "_none_": [
+      "C:\\Users\\wilso\\source\\repos\\zarantonello\\medium-testes-mutantes\\LabNotasTests\\bin\\Debug\\netcoreapp3.1\\LabNotasTests.dll"
+    ]
+  },
+  "FrequencyOfDiscoveredTestsEvent": 1,
+  "DiscoveredTestEventTimeout": "00:00:01.5000000",
+  "RunSettings": "<RunSettings>\r\n  <RunConfiguration>\r\n    <MaxCpuCount>1</MaxCpuCount>\r\n    <TargetFrameworkVersion>.NETCoreApp,Version=v3.1</TargetFrameworkVersion>\r\n    <DesignMode>false</DesignMode>\r\n    <BatchSize>1</BatchSize>\r\n    <TargetPlatform>X64</TargetPlatform>\r\n    <CollectSourceInformation>True</CollectSourceInformation>\r\n  </RunConfiguration>\r\n  <LoggerRunSettings>\r\n    <Loggers>\r\n      <Logger friendlyName=\"Console\" uri=\"logger://microsoft/TestPlatform/ConsoleLogger/v1\" assemblyQualifiedName=\"Microsoft.VisualStudio.TestPlatform.CommandLine.Internal.ConsoleLogger, vstest.console, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a\" codeBase=\"C:\\Users\\wilso\\AppData\\Local\\Temp\\5y3im2b1.1wq\\.vstest\\tools\\net451\\vstest.console.exe\" enabled=\"True\" />\r\n    </Loggers>\r\n  </LoggerRunSettings>\r\n</RunSettings>",
+  "TestCaseFilter": null
+}
+TpTrace Information: 0 : 25180, 10, 2020/09/10, 19:13:52.877, 767796656873, testhost.dll, Discovery started.
+TpTrace Information: 0 : 25180, 5, 2020/09/10, 19:13:52.891, 767796800841, testhost.dll, AssemblyResolver.ctor: Creating AssemblyResolver with searchDirectories C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1
+TpTrace Information: 0 : 25180, 5, 2020/09/10, 19:13:52.910, 767796987835, testhost.dll, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1
+TpTrace Information: 0 : 25180, 5, 2020/09/10, 19:13:52.924, 767797127551, testhost.dll, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter: Resolving assembly.
+TpTrace Information: 0 : 25180, 5, 2020/09/10, 19:13:52.997, 767797865681, testhost.dll, AssemblyResolver.OnResolve: Resolved assembly: Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter, from path: C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+TpTrace Information: 0 : 25180, 5, 2020/09/10, 19:13:53.070, 767798587001, testhost.dll, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface: Resolving assembly.
+TpTrace Information: 0 : 25180, 5, 2020/09/10, 19:13:53.145, 767799337135, testhost.dll, AssemblyResolver.OnResolve: Resolved assembly: Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface, from path: C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+TpTrace Information: 0 : 25180, 5, 2020/09/10, 19:13:53.146, 767799348127, testhost.dll, AssemblyResolver.OnResolve: Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices: Resolving assembly.
+TpTrace Information: 0 : 25180, 5, 2020/09/10, 19:13:53.208, 767799975672, testhost.dll, AssemblyResolver.OnResolve: Resolved assembly: Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices, from path: C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+TpTrace Information: 0 : 25180, 5, 2020/09/10, 19:13:53.237, 767800264686, testhost.dll, TestPluginManager.CreateTestExtension: Attempting to load test extension: Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.MSTestDiscoverer
+TpTrace Information: 0 : 25180, 5, 2020/09/10, 19:13:53.243, 767800316516, testhost.dll, TestDiscoveryManager.DoDiscovery: Background test discovery started.
+TpTrace Information: 0 : 25180, 5, 2020/09/10, 19:13:53.247, 767800357645, testhost.dll, TestDiscoveryManager: Discovering tests from sources C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1\LabNotasTests.dll
+TpTrace Information: 0 : 25180, 5, 2020/09/10, 19:13:53.285, 767800740483, testhost.dll, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1
+TpTrace Information: 0 : 25180, 5, 2020/09/10, 19:13:53.285, 767800743717, testhost.dll, AssemblyResolver.AddSearchDirectories: Adding more searchDirectories C:\Users\wilso\source\repos\zarantonello\medium-testes-mutantes\LabNotasTests\bin\Debug\netcoreapp3.1
+TpTrace Information: 0 : 25180, 5, 2020/09/10, 19:13:58.140, 767849290554, testhost.dll, Test Cases found 
+TpTrace Information: 0 : 25180, 5, 2020/09/10, 19:13:58.202, 767849914420, testhost.dll, Test Cases found 
+TpTrace Information: 0 : 25180, 5, 2020/09/10, 19:13:58.203, 767849922016, testhost.dll, Test Cases found 
+TpTrace Information: 0 : 25180, 5, 2020/09/10, 19:13:58.208, 767849968270, testhost.dll, Discover Finished.
+TpTrace Information: 0 : 25180, 10, 2020/09/10, 19:13:58.320, 767851094875, testhost.dll, TestRequestHandler.ProcessRequests: received message: (TestSession.Terminate) -> null
+TpTrace Information: 0 : 25180, 10, 2020/09/10, 19:13:58.321, 767851096938, testhost.dll, Session End message received from server. Closing the connection.
+TpTrace Information: 0 : 25180, 1, 2020/09/10, 19:13:58.321, 767851103744, testhost.dll, SocketClient.Stop: Stop communication from server endpoint: 127.0.0.1:049456
+TpTrace Information: 0 : 25180, 10, 2020/09/10, 19:13:58.321, 767851103698, testhost.dll, SocketClient.Stop: Stop communication from server endpoint: 127.0.0.1:049456
+TpTrace Information: 0 : 25180, 1, 2020/09/10, 19:13:58.321, 767851105202, testhost.dll, SocketClient: Stop: Cancellation requested. Stopping message loop.
+TpTrace Information: 0 : 25180, 10, 2020/09/10, 19:13:58.322, 767851107298, testhost.dll, SocketClient: Stop: Cancellation requested. Stopping message loop.
+TpTrace Information: 0 : 25180, 10, 2020/09/10, 19:13:58.322, 767851111968, testhost.dll, Closing the connection !
+TpTrace Information: 0 : 25180, 1, 2020/09/10, 19:13:58.322, 767851113353, testhost.dll, Testhost process exiting.
+TpTrace Information: 0 : 25180, 10, 2020/09/10, 19:13:58.323, 767851117944, testhost.dll, SocketClient.PrivateStop: Stop communication from server endpoint: 127.0.0.1:049456, error:
